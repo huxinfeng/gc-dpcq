@@ -1,0 +1,56 @@
+{
+    "attrs": {
+        "lvUpAutoGetSkills": {
+            "varType": 9,
+            "value": [
+                {
+                    "lv": {
+                        "varType": 0,
+                        "value": 2,
+                        "copy": false
+                    },
+                    "skill": {
+                        "varType": 0,
+                        "value": 1006,
+                        "copy": false
+                    }
+                },
+                {
+                    "lv": {
+                        "varType": 0,
+                        "value": 3,
+                        "copy": false
+                    },
+                    "skill": {
+                        "varType": 0,
+                        "value": 1007,
+                        "copy": false
+                    }
+                }
+            ],
+            "copy": false
+        },
+        "canWearEquips": {
+            "varType": 6,
+            "value": [
+                5,
+                6,
+                7,
+                8,
+                1001,
+                2001,
+                2004,
+                3001,
+                4001,
+                4002
+            ],
+            "copy": false
+        },
+        "icon": {
+            "varType": 1,
+            "value": "asset/image/picture/icon/occupation/magicianSign.png",
+            "copy": false
+        }
+    },
+    "id": 2
+}

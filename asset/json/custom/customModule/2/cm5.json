@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "lvUpAutoGetSkills": {
+            "varType": 9,
+            "value": [],
+            "copy": false
+        },
+        "canWearEquips": {
+            "varType": 6,
+            "value": [],
+            "copy": false
+        },
+        "icon": {
+            "varType": 1,
+            "value": "asset/image/picture/icon/occupation/monsterSign.png",
+            "copy": false
+        }
+    },
+    "id": 5
+}

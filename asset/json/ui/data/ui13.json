@@ -1,0 +1,1189 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "63874387172_0.43669723326185905",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "背景阴影",
+                "x": 13,
+                "y": 11,
+                "width": 303,
+                "height": 119,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/file/bgShadow.png",
+                "grid9": "0,0,0,0,0",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "63875120191_0.35930290626559147",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "提示文本背景",
+                "x": 0,
+                "y": 11,
+                "width": 1200,
+                "height": 44,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/battle/ready/tips.png",
+                "grid9": "0,0,0,0,0",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "63873478653_0.26400363074755573",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "人物信息背景",
+                "x": 0,
+                "y": 0,
+                "width": 310,
+                "height": 123,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/control/uibitmap.png",
+                "grid9": "46,52,52,44,1",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "57328634061_0.05932785738115953",
+                "condition": [],
+                "type": "UIRoot",
+                "name": "我的角色信息",
+                "x": 0,
+                "y": 13,
+                "width": 295,
+                "height": 111,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": false,
+                "enabledLimitView": null,
+                "scrollShowType": 2,
+                "hScrollBar": "asset/image/picture/control/hscroll_bar.png",
+                "hScrollBg": "asset/image/picture/control/hscroll_bg.png",
+                "vScrollBar": "asset/image/picture/control/vscroll_bar.png",
+                "vScrollBg": "asset/image/picture/control/vscroll_bg.png",
+                "scrollWidth": 16,
+                "slowmotionType": 0,
+                "enabledWheel": true,
+                "hScrollValue": 0,
+                "vScrollValue": 0,
+                "children": [
+                    {
+                        "id": "63873737097_0.9248053988154348",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "角色头像底衬",
+                        "x": 22,
+                        "y": 0,
+                        "width": 127,
+                        "height": 202,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/team/pictureFrameBg.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "63873880494_0.5296619942390477",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "角色头像底衬",
+                        "x": 22,
+                        "y": 0,
+                        "width": 127,
+                        "height": 202,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/team/pictureFrame.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "57328651838_0.46413423856875613",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "mainFace",
+                        "x": 26,
+                        "y": 1,
+                        "width": 121,
+                        "height": 191,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/face/swordman/Normal_body_half.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "63873853066_0.5824670272500945",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "角色头像虚线底衬",
+                        "x": 22,
+                        "y": 0,
+                        "width": 127,
+                        "height": 202,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/team/pictureFrameEmptyBg.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "57328697954_0.8195613213745618",
+                        "condition": [],
+                        "type": "UISlider",
+                        "name": "HPSlider",
+                        "x": 162,
+                        "y": 42,
+                        "width": 92,
+                        "height": 8,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image1": "asset/image/picture/ui/backpack/hpmpbg.png",
+                        "bgGrid9": "0,0,0,0,0",
+                        "image2": "",
+                        "blockGrid9": "0,0,0,0,0",
+                        "image3": "asset/image/picture/ui/backpack/hpBar.png",
+                        "blockFillGrid9": "0,0,0,0,0",
+                        "step": 0.01,
+                        "min": 0,
+                        "max": 1,
+                        "value": 1,
+                        "transverseMode": true,
+                        "blockFillMode": 1,
+                        "blockPosMode": 0,
+                        "fillStrething": false,
+                        "onChangeFragEvent": null
+                    },
+                    {
+                        "id": "57328716687_0.26027831524786316",
+                        "condition": [],
+                        "type": "UISlider",
+                        "name": "SPSlider",
+                        "x": 162,
+                        "y": 60,
+                        "width": 92,
+                        "height": 8,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image1": "asset/image/picture/ui/backpack/hpmpbg.png",
+                        "bgGrid9": "0,0,0,0,0",
+                        "image2": "",
+                        "blockGrid9": "0,0,0,0,0",
+                        "image3": "asset/image/picture/ui/backpack/mpBar.png",
+                        "blockFillGrid9": "0,0,0,0,0",
+                        "step": 0.01,
+                        "min": 0,
+                        "max": 1,
+                        "value": 1,
+                        "transverseMode": true,
+                        "blockFillMode": 1,
+                        "blockPosMode": 0,
+                        "fillStrething": false,
+                        "onChangeFragEvent": null
+                    },
+                    {
+                        "id": "57328730787_0.33554332295347655",
+                        "condition": [],
+                        "type": "UISlider",
+                        "name": "EXPSlider",
+                        "x": 162,
+                        "y": 80,
+                        "width": 121,
+                        "height": 6,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image1": "asset/image/picture/control/slider_bg.png",
+                        "bgGrid9": "0,0,0,0,0",
+                        "image2": "",
+                        "blockGrid9": "0,0,0,0,0",
+                        "image3": "asset/image/picture/control/slider_bgfill.png",
+                        "blockFillGrid9": "0,0,0,0,0",
+                        "step": 0.01,
+                        "min": 0,
+                        "max": 1,
+                        "value": 0,
+                        "transverseMode": true,
+                        "blockFillMode": 1,
+                        "blockPosMode": 0,
+                        "fillStrething": false,
+                        "onChangeFragEvent": null
+                    }
+                ]
+            },
+            {
+                "id": "57328794392_0.413085973060179",
+                "condition": [],
+                "type": "UIString",
+                "name": "mainLevel",
+                "x": 162,
+                "y": 20,
+                "width": 125,
+                "height": 30,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "text": "Lv.3",
+                "fontSize": 24,
+                "color": "#523731",
+                "bold": true,
+                "italic": false,
+                "smooth": null,
+                "align": 0,
+                "valign": 0,
+                "leading": 0,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "wordWrap": true,
+                "overflow": 0,
+                "shadowEnabled": null,
+                "shadowColor": "#000000",
+                "shadowDx": 1,
+                "shadowDy": 1,
+                "stroke": 0,
+                "strokeColor": "#000000",
+                "onChangeFragEvent": null
+            },
+            {
+                "id": "57328867841_0.02401028215734269",
+                "condition": [],
+                "type": "UIString",
+                "name": "HPText",
+                "x": 264,
+                "y": 53,
+                "width": 43,
+                "height": 14,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "text": "100",
+                "fontSize": 12,
+                "color": "#94816b",
+                "bold": true,
+                "italic": false,
+                "smooth": null,
+                "align": 0,
+                "valign": 0,
+                "leading": 0,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "wordWrap": true,
+                "overflow": 0,
+                "shadowEnabled": null,
+                "shadowColor": "#000000",
+                "shadowDx": 1,
+                "shadowDy": 1,
+                "stroke": 0,
+                "strokeColor": "#000000",
+                "onChangeFragEvent": null
+            },
+            {
+                "id": "57328885274_0.480376304534019",
+                "condition": [],
+                "type": "UIString",
+                "name": "SPText",
+                "x": 264,
+                "y": 72,
+                "width": 45,
+                "height": 11,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "text": "100",
+                "fontSize": 12,
+                "color": "#94816b",
+                "bold": true,
+                "italic": false,
+                "smooth": null,
+                "align": 0,
+                "valign": 0,
+                "leading": 0,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "wordWrap": true,
+                "overflow": 0,
+                "shadowEnabled": null,
+                "shadowColor": "#000000",
+                "shadowDx": 1,
+                "shadowDy": 1,
+                "stroke": 0,
+                "strokeColor": "#000000",
+                "onChangeFragEvent": null
+            },
+            {
+                "id": "57329047937_0.07854144401029628",
+                "condition": [],
+                "type": "UIList",
+                "name": "stateList",
+                "x": 320,
+                "y": 22,
+                "width": 522,
+                "height": 25,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "itemModelGUI": 1028,
+                "previewSize": 20,
+                "selectEnable": false,
+                "repeatX": 100,
+                "itemWidth": 24,
+                "itemHeight": 50,
+                "spaceX": 2,
+                "spaceY": 20,
+                "scrollShowType": 0,
+                "hScrollBar": "asset/image/picture/control/hscroll_bar.png",
+                "hScrollBg": "asset/image/picture/control/hscroll_bg.png",
+                "vScrollBar": "asset/image/picture/control/vscroll_bar.png",
+                "vScrollBg": "asset/image/picture/control/vscroll_bg.png",
+                "scrollWidth": 16,
+                "selectImageURL": "",
+                "selectImageGrid9": "0,0,0,0,0",
+                "selectedImageAlpha": 0.5,
+                "selectedImageOnTop": false,
+                "overImageURL": "",
+                "overImageGrid9": "0,0,0,0,0",
+                "overImageAlpha": 0.5,
+                "overImageOnTop": false,
+                "overSelectMode": false,
+                "slowmotionType": 0
+            },
+            {
+                "id": "57329480208_0.3444437970434022",
+                "condition": [],
+                "type": "UIList",
+                "name": "partyList",
+                "x": 18,
+                "y": 218,
+                "width": 384,
+                "height": 277,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "itemModelGUI": 1024,
+                "previewSize": 10,
+                "selectEnable": false,
+                "repeatX": 1,
+                "itemWidth": 200,
+                "itemHeight": 50,
+                "spaceX": 2,
+                "spaceY": 20,
+                "scrollShowType": 0,
+                "hScrollBar": "asset/image/picture/control/hscroll_bar.png",
+                "hScrollBg": "asset/image/picture/control/hscroll_bg.png",
+                "vScrollBar": "asset/image/picture/control/vscroll_bar.png",
+                "vScrollBg": "asset/image/picture/control/vscroll_bg.png",
+                "scrollWidth": 16,
+                "selectImageURL": "",
+                "selectImageGrid9": "0,0,0,0,0",
+                "selectedImageAlpha": 0.5,
+                "selectedImageOnTop": true,
+                "overImageURL": "",
+                "overImageGrid9": "0,0,0,0,0",
+                "overImageAlpha": 0.5,
+                "overImageOnTop": true,
+                "overSelectMode": true,
+                "slowmotionType": 0
+            },
+            {
+                "id": "64020164407_0.6542175990717845",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "技能栏底衬",
+                "x": 0,
+                "y": 694,
+                "width": 1200,
+                "height": 27,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/setting/bgBottom.png",
+                "grid9": "0,0,0,0,1",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "57332640444_0.5369542042737496",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "技能栏",
+                "x": 816,
+                "y": 614,
+                "width": 376,
+                "height": 101,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": false,
+                "image": "",
+                "grid9": "46,52,52,44,1",
+                "flip": null,
+                "pivotType": 0,
+                "children": [
+                    {
+                        "id": "64020326598_0.49708156748413646",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "技能图标背景",
+                        "x": 19,
+                        "y": 43,
+                        "width": 56,
+                        "height": 56,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/team/skillSelect.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "64020493062_0.11207393770156471",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "技能图标背景",
+                        "x": 89,
+                        "y": 43,
+                        "width": 56,
+                        "height": 56,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/team/skillSelect.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "64020500078_0.5814961276789703",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "技能图标背景",
+                        "x": 159,
+                        "y": 43,
+                        "width": 56,
+                        "height": 56,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/team/skillSelect.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "64020514732_0.874363821940678",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "技能图标背景",
+                        "x": 229,
+                        "y": 43,
+                        "width": 56,
+                        "height": 56,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/team/skillSelect.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "64020521122_0.9969401069273551",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "技能图标背景",
+                        "x": 299,
+                        "y": 43,
+                        "width": 56,
+                        "height": 56,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/team/skillSelect.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "57329775364_0.9477214733158066",
+                        "condition": [],
+                        "type": "UIList",
+                        "name": "skillList",
+                        "x": 22,
+                        "y": 46,
+                        "width": 342,
+                        "height": 53,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "itemModelGUI": 1030,
+                        "previewSize": 5,
+                        "selectEnable": false,
+                        "repeatX": 10,
+                        "itemWidth": 70,
+                        "itemHeight": 50,
+                        "spaceX": 0,
+                        "spaceY": 0,
+                        "scrollShowType": 0,
+                        "hScrollBar": "asset/image/picture/control/hscroll_bar.png",
+                        "hScrollBg": "asset/image/picture/control/hscroll_bg.png",
+                        "vScrollBar": "asset/image/picture/control/vscroll_bar.png",
+                        "vScrollBg": "asset/image/picture/control/vscroll_bg.png",
+                        "scrollWidth": 16,
+                        "selectImageURL": "",
+                        "selectImageGrid9": "0,0,0,0,0",
+                        "selectedImageAlpha": 0.5,
+                        "selectedImageOnTop": true,
+                        "overImageURL": "",
+                        "overImageGrid9": "0,0,0,0,0",
+                        "overImageAlpha": 0.5,
+                        "overImageOnTop": true,
+                        "overSelectMode": true,
+                        "slowmotionType": 0
+                    }
+                ]
+            },
+            {
+                "id": "59247028096_0.6090579063363626",
+                "condition": [],
+                "type": "UICheckBox",
+                "name": "复选框",
+                "x": 163,
+                "y": 142,
+                "width": 18,
+                "height": 18,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [
+                    null,
+                    null,
+                    null,
+                    true
+                ],
+                "isOpen": true,
+                "selected": false,
+                "image1": "asset/image/picture/control/check_unselected.png",
+                "grid9img1": "0,0,0,0,0",
+                "image2": "asset/image/picture/control/check_selected.png",
+                "grid9img2": "0,0,0,0,0",
+                "onChangeFragEvent": "同步队友AI模式\u000562526777033_0.6122525190812875\u0005[[0,5,0,[0,1,1,0],0,0,[0,1,1,0],0,[1,1,[0,0]],0,0,[1,1],\"\",\"\",true,null,[5,{\"checkType\":1,\"uiIDVarID\":0,\"uiID\":0,\"useVarID\":0,\"type\":0,\"uiComp\":{\"type\":2,\"uiID\":13,\"compName\":\"复选框\",\"compID\":\"59247028096_0.6090579063363626\",\"attrs\":[\"visible:是否显示\",\"mouseEnabled:是否响应鼠标事件\",\"selected:选中\"],\"varName\":\"selected\"}},[{\"57914337688_0.5092895732725227\":1,\"42668749327_0.5044332572445289\":0,\"42662223132_0.13407162179315324\":0,\"42668749764_0.405507816846465\":0,\"42668805260_0.7826262589690147\":0,\"57914383545_0.5685445397448059\":{\"type\":2,\"uiID\":13,\"compName\":\"复选框\",\"compID\":\"59247028096_0.6090579063363626\",\"attrs\":[\"visible:是否显示\",\"mouseEnabled:是否响应鼠标事件\",\"selected:选中\"],\"varName\":\"selected\"}}]],null,null,null,null,0,0,[0,{},\"\"],[0,{},\"\"],{\"___cmdID\":\"59247309190_0.20402162937016488\"}],[30010,{\"52232989538_0.7253488398048435\":\"aiMode\",\"52233116975_0.6755112755690462\":0,\"52233200768_0.06014145642140556\":1,\"52233521484_0.5808011550181151\":0,\"52233582166_0.7034189923888743\":\"\",\"52235114638_0.5542487093208812\":0,\"52235163571_0.8106362742703526\":15016,\"52235165450_0.9083546003951841\":1,\"52235166447_0.4729556283559442\":1},\"59247332527_0.37136082262440384\"],[1,{\"___cmdID\":\"59247331021_0.6577277170385021\"}],[30010,{\"52232989538_0.7253488398048435\":\"aiMode\",\"52233116975_0.6755112755690462\":0,\"52233200768_0.06014145642140556\":0,\"52233521484_0.5808011550181151\":0,\"52233582166_0.7034189923888743\":\"\",\"52235114638_0.5542487093208812\":0,\"52235163571_0.8106362742703526\":15016,\"52235165450_0.9083546003951841\":1,\"52235166447_0.4729556283559442\":1},\"59247333238_0.4523569963576497\"],[2,{\"___cmdID\":\"59247328528_0.9850372764300266\"}]]",
+                "children": [
+                    {
+                        "id": "59247045439_0.2168764391520439",
+                        "condition": [],
+                        "type": "UIString",
+                        "name": "队友主动攻击文本",
+                        "x": 26,
+                        "y": 0,
+                        "width": 106,
+                        "height": 20,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "text": "队友主动攻击",
+                        "fontSize": 16,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "italic": false,
+                        "smooth": null,
+                        "align": 0,
+                        "valign": 0,
+                        "leading": 0,
+                        "letterSpacing": 0,
+                        "font": "思源黑体",
+                        "wordWrap": true,
+                        "overflow": 0,
+                        "shadowEnabled": null,
+                        "shadowColor": "#000000",
+                        "shadowDx": 1,
+                        "shadowDy": 1,
+                        "stroke": 0,
+                        "strokeColor": "#000000",
+                        "onChangeFragEvent": null
+                    }
+                ]
+            },
+            {
+                "id": "63538385830_0.5514805895004731",
+                "condition": [],
+                "type": "UICustomGameString",
+                "name": "技能1",
+                "x": 851,
+                "y": 635,
+                "width": 26,
+                "height": 18,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "customData": [
+                    7,
+                    {
+                        "type": 0,
+                        "systemKeys": 7
+                    },
+                    [
+                        {
+                            "58364137674_0.6367726218843348": 0,
+                            "58364471583_0.8375231440388542": 7
+                        }
+                    ]
+                ],
+                "inEditorText": "1",
+                "fontSize": 16,
+                "color": "#ffffff",
+                "bold": true,
+                "italic": false,
+                "smooth": null,
+                "align": 1,
+                "valign": 0,
+                "leading": 0,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "wordWrap": true,
+                "overflow": 0,
+                "shadowEnabled": null,
+                "shadowColor": "#000000",
+                "shadowDx": 1,
+                "shadowDy": 1,
+                "stroke": 0,
+                "strokeColor": "#000000"
+            },
+            {
+                "id": "63538413949_0.6539875410485516",
+                "condition": [],
+                "type": "UICustomGameString",
+                "name": "技能2",
+                "x": 920,
+                "y": 635,
+                "width": 26,
+                "height": 19,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "customData": [
+                    7,
+                    {
+                        "type": 0,
+                        "systemKeys": 10
+                    },
+                    [
+                        {
+                            "58364137674_0.6367726218843348": 0,
+                            "58364471583_0.8375231440388542": 10
+                        }
+                    ]
+                ],
+                "inEditorText": "2",
+                "fontSize": 16,
+                "color": "#ffffff",
+                "bold": true,
+                "italic": false,
+                "smooth": null,
+                "align": 1,
+                "valign": 0,
+                "leading": 0,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "wordWrap": true,
+                "overflow": 0,
+                "shadowEnabled": null,
+                "shadowColor": "#000000",
+                "shadowDx": 1,
+                "shadowDy": 1,
+                "stroke": 0,
+                "strokeColor": "#000000"
+            },
+            {
+                "id": "63538439245_0.7966225120247759",
+                "condition": [],
+                "type": "UICustomGameString",
+                "name": "技能3",
+                "x": 990,
+                "y": 635,
+                "width": 26,
+                "height": 19,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "customData": [
+                    7,
+                    {
+                        "type": 0,
+                        "systemKeys": 12
+                    },
+                    [
+                        {
+                            "58364137674_0.6367726218843348": 0,
+                            "58364471583_0.8375231440388542": 12
+                        }
+                    ]
+                ],
+                "inEditorText": "3",
+                "fontSize": 16,
+                "color": "#ffffff",
+                "bold": true,
+                "italic": false,
+                "smooth": null,
+                "align": 1,
+                "valign": 0,
+                "leading": 0,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "wordWrap": true,
+                "overflow": 0,
+                "shadowEnabled": null,
+                "shadowColor": "#000000",
+                "shadowDx": 1,
+                "shadowDy": 1,
+                "stroke": 0,
+                "strokeColor": "#000000"
+            },
+            {
+                "id": "63538447731_0.7392860533723269",
+                "condition": [],
+                "type": "UICustomGameString",
+                "name": "技能4",
+                "x": 1060,
+                "y": 635,
+                "width": 26,
+                "height": 16,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "customData": [
+                    7,
+                    {
+                        "type": 0,
+                        "systemKeys": 11
+                    },
+                    [
+                        {
+                            "58364137674_0.6367726218843348": 0,
+                            "58364471583_0.8375231440388542": 11
+                        }
+                    ]
+                ],
+                "inEditorText": "4",
+                "fontSize": 16,
+                "color": "#ffffff",
+                "bold": true,
+                "italic": false,
+                "smooth": null,
+                "align": 1,
+                "valign": 0,
+                "leading": 0,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "wordWrap": true,
+                "overflow": 0,
+                "shadowEnabled": null,
+                "shadowColor": "#000000",
+                "shadowDx": 1,
+                "shadowDy": 1,
+                "stroke": 0,
+                "strokeColor": "#000000"
+            },
+            {
+                "id": "63538462583_0.9661910298653011",
+                "condition": [],
+                "type": "UICustomGameString",
+                "name": "技能5",
+                "x": 1127,
+                "y": 635,
+                "width": 26,
+                "height": 18,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "customData": [
+                    7,
+                    {
+                        "type": 0,
+                        "systemKeys": 13
+                    },
+                    [
+                        {
+                            "58364137674_0.6367726218843348": 0,
+                            "58364471583_0.8375231440388542": 13
+                        }
+                    ]
+                ],
+                "inEditorText": "5",
+                "fontSize": 16,
+                "color": "#ffffff",
+                "bold": true,
+                "italic": false,
+                "smooth": null,
+                "align": 1,
+                "valign": 0,
+                "leading": 0,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "wordWrap": true,
+                "overflow": 0,
+                "shadowEnabled": null,
+                "shadowColor": "#000000",
+                "shadowDx": 1,
+                "shadowDy": 1,
+                "stroke": 0,
+                "strokeColor": "#000000"
+            },
+            {
+                "id": "63549117353_0.7759618514969318",
+                "condition": [],
+                "type": "UIGUI",
+                "name": "tipsUI",
+                "x": 502,
+                "y": 86,
+                "width": 0,
+                "height": 0,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "guiID": 1027,
+                "instanceClassName": "",
+                "dpWidth": 0
+            }
+        ]
+    },
+    "instanceClassName": "GUI_Main",
+    "id": 13,
+    "hasRootCommand": []
+}

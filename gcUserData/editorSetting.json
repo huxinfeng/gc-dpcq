@@ -1,0 +1,126 @@
+{
+    "customSystemEnableds": {
+        "worldSetting": true,
+        "playerSetting": true,
+        "commonEventSetting": true,
+        "avatarSetting": true,
+        "animationSetting": true,
+        "dialogSetting": true,
+        "uiSetting": true,
+        "live2dSetting": true,
+        "tileSystem": true,
+        "sceneObjectSystem": true,
+        "fastEditEditor": true,
+        "standingSystem": true,
+        "mapGrid": true,
+        "dataGrid": true,
+        "scriptSystem": true,
+        "mainArea": 0,
+        "sceneState": {
+            "lastSceneMapID": 1,
+            "lastSceneElementIndex": 0,
+            "lastSceneElementSelectedIndex": 0,
+            "lastSceneElementBlockset": true
+        },
+        "viewState": {
+            "showGrid": false,
+            "alignGrid": false,
+            "dimLayer": 1,
+            "render": true,
+            "dataGridShow": [
+                false,
+                false,
+                null,
+                true
+            ],
+            "showObs": false,
+            "showMask": false
+        },
+        "elementShowGrid": true,
+        "systemCommands": {
+            "dialogMessage": true,
+            "dialogOption": true,
+            "dialogPlayerInput": true,
+            "variableSystem": true,
+            "process1": true,
+            "process2": true,
+            "process3": true,
+            "AdvancedDrama": true,
+            "audio": true,
+            "sceneTo": true,
+            "sceneShake": true,
+            "sceneTonal": true,
+            "sceneCamera": true,
+            "sceneFog": true,
+            "sceneObjectBehavior": true,
+            "sceneObjectWaitBehavior": true
+        },
+        "runTestCompileMode": 1,
+        "restartServer": true,
+        "ediotrViewColor": {
+            "ui": [
+                "#1a1a1a",
+                "#1e1e1e"
+            ],
+            "dialog": [
+                "#848484",
+                "#404040"
+            ],
+            "animation": "#020202",
+            "avatar": "#1a1a1a",
+            "standAvatar": "#1a1a1a",
+            "custom": "#737373"
+        },
+        "presetColor": [
+            "#FF0000",
+            "#00FF00",
+            "#0000FF"
+        ],
+        "resourceunLimit": true,
+        "isWhowQRCode": true,
+        "runtimeClassInfo": {
+            "soClientExtends": "ClientSceneObject",
+            "soServerExtends": "ServerSceneObject",
+            "sceneClientDefault": "ProjectClientScene",
+            "sceneServerDefault": "ServerScene"
+        },
+        "avatarEditorConfig": {
+            "showLastFrame": false,
+            "showRefObj": false
+        },
+        "standAvatarEditorConfig": {
+            "showLastFrame": true
+        },
+        "uiListSwitch": false,
+        "CMD_PAGE_PREVIEW_MODE": [
+            {
+                "mode": 2
+            },
+            {
+                "mode": 2
+            },
+            {
+                "mode": 2
+            },
+            {
+                "mode": 2
+            },
+            {
+                "mode": 2
+            },
+            {
+                "mode": 2
+            }
+        ],
+        "commandPagePreviewState": [
+            false,
+            true,
+            1,
+            true,
+            true
+        ],
+        "applyModuleToAllScene": false,
+        "editorFontSize": 0,
+        "sceneObjectModelSetting": true
+    }
+}

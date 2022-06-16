@@ -1,0 +1,222 @@
+{
+    "compAutoOrderLimitHeight": 0,
+    "id": 2012,
+    "blockList": [
+        {
+            "name": "打开商店",
+            "blockAttrs": [
+                {
+                    "attr": {
+                        "id": "44481964653_0.3751238683183915",
+                        "varName": "goodsList",
+                        "varType": 3,
+                        "compData": {
+                            "compType": 1003,
+                            "compParam": {}
+                        },
+                        "defaultValue": "",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 12,
+                        "arrayMode": true,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "如果商品数量为“常量”，则每次打开商店都会恢复为设定的「常量」。如果希望购买后数量减少的，请使用「变量」，购买后会自动减去对应「变量」的数值。",
+                        "alias": "商品清单",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [],
+                    "y": 14,
+                    "x": 10,
+                    "width": 790,
+                    "height": 475
+                },
+                {
+                    "attr": {
+                        "id": "44631548864_0.19312222020501268",
+                        "varName": "个性化设置",
+                        "varType": 1,
+                        "compData": {
+                            "compType": 33,
+                            "compParam": {}
+                        },
+                        "defaultValue": "∞",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "关于禁止玩家移动和呼出菜单：\\n如果在调用本命令前即为禁止状态，在商店界面关闭后，仍会恢复到原先的状态。\\n通俗的说就是：该禁着的继续禁着，本来没禁的，自然就没禁。",
+                        "alias": "",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [],
+                    "y": 8,
+                    "x": 807,
+                    "width": 391,
+                    "height": 102
+                },
+                {
+                    "attr": {
+                        "id": "44631537733_0.7054904907123132",
+                        "varName": "nameWhenInfinite",
+                        "varType": 1,
+                        "compData": {
+                            "compType": 9,
+                            "compParam": {}
+                        },
+                        "defaultValue": "∞",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "",
+                        "alias": "无限数量时的代称",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [],
+                    "y": 35,
+                    "x": 819,
+                    "width": 200,
+                    "height": 32
+                },
+                {
+                    "attr": {
+                        "id": "44672138187_0.8035975208575774",
+                        "varName": "enableSell",
+                        "varType": 2,
+                        "compData": {
+                            "compType": 15,
+                            "compParam": {}
+                        },
+                        "defaultValue": "1",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "勾上的时候，商店界面的出售按钮（sellListBtn）才会生效",
+                        "alias": "是否允许出售",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [],
+                    "y": 68,
+                    "x": 820,
+                    "width": 284,
+                    "height": 32
+                },
+                {
+                    "attr": {
+                        "id": "44693410713_0.27400092591844705",
+                        "varName": "discount",
+                        "varType": 0,
+                        "compData": {
+                            "compType": 1,
+                            "compParam": {
+                                "minLimit": 0.01,
+                                "maxLimit": 2,
+                                "tickValue": 0.1,
+                                "limitInteger": false,
+                                "lockTextLimit": true
+                            }
+                        },
+                        "defaultValue": "0.5",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "勾上的时候，商店界面的出售按钮（sellListBtn）才会生效",
+                        "alias": "售价折扣",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [
+                        {
+                            "attrID": "44672138187_0.8035975208575774",
+                            "value": true,
+                            "isExpression": false,
+                            "jsCode": null,
+                            "tsCode": null,
+                            "codeName": null
+                        }
+                    ],
+                    "y": 68,
+                    "x": 935,
+                    "width": 250,
+                    "height": 32
+                }
+            ],
+            "blockCondition": [],
+            "blockHeight": 500,
+            "autoOrder": true,
+            "hideBlockTitle": true,
+            "cmdColor": "#fff04c",
+            "cmdIcon": "asset/image/command/eP_icon_Shop_yellow.png"
+        }
+    ],
+    "isCustomPhraseDesc": true,
+    "compAutoOrder": false,
+    "fastModifyAttribute": false,
+    "customPhraseDescTS": "// 根据属性名称值编写自定义短语描述，如：\"我的短语是\"+attrs.xxx\n// 使用下拉框组件的变量attrs.xxx有对应的attrs.xxxItems的属性以便获得标签名集合\n// 获取自定义模块的数据名称的函数：getModuleDataName(moduleID:number,dataID:number):string;\n// 获取各种列表内数据名称的函数：getTypeDataListName(typeID: number, dataID: number):string;\n// -- typeID ：0-全局变量 1-全局开关 2-全局字符串 3-玩家变量 4-玩家开关 5-玩家字符串\n//           ：6-场景列表 7-场景对象模型列表 8-图块列表 9-行走图列表 10-行走图动作列表 11-立绘列表 12-立绘表情列表\n//           ：13-事件库列表 14-对话框列表 15-动画列表 16-动画信号列表 17-界面列表 18-数据结构列表 19-自定义模块列表\n//           ：20-自定义命令列表 21-自定义行为列表 22-自动元件列表 23-行走图部件列表 24-立绘部件列表 25-材质列表 26-场景对象模块\nlet str = `共${attrs.goodsList.length}件商品`;\n//商品内容\nfor (let i = 0; i < attrs.goodsList.length; i++) {\n    let goods = attrs.goodsList[i];\n    let itemID = typeof goods.item == 'number' ? goods.item : goods.item.id;\n    let goodsName = `道具: [${itemID}-${getModuleDataName(5, itemID)}]`;\n    if (goods.isEquip) {\n        let equipID = typeof goods.equip == 'number' ? goods.equip : goods.equip.id;\n        goodsName = `装备: [${equipID}-${getModuleDataName(4, equipID)}]`;\n    }\n    //数量\n    if (goods.numberType == 0) {\n        goodsName += ` 数量:无限`;\n    } else if (goods.numberType == 1) {\n        goodsName += ` 数量:${goods.number}`;\n    } else if (goods.numberType == 2) {\n        goodsName += ` 数量:${MathUtils.fixIntDigit(goods.numberVar, 4)}-${GameListData.getName(Game.data.playerVariableNameList, goods.numberVar)}`;\n    }\n    //价格\n    if (goods.priceType == 0) {\n        goodsName += ` 价格:默认`;\n    } else if (goods.priceType == 1) {\n        goodsName += ` 价格:${goods.price}`;\n    } else if (goods.priceType == 2) {\n        goodsName += ` 价格:${MathUtils.fixIntDigit(goods.priceVar, 4)}-${GameListData.getName(Game.data.playerVariableNameList, goods.priceVar)}`;\n    }\n    str += `\\n${goodsName}`;\n}\n//其他\nstr += ` \\n无限数量时的代称:${attrs.nameWhenInfinite} ${attrs.enableSell ? `允许出售 折扣:${attrs.discount}` : '不允许出售'} `;\nstr;",
+    "customPhraseDescJS": "var str = \"\\u5171\" + attrs.goodsList.length + \"\\u4EF6\\u5546\\u54C1\";\nfor (var i = 0; i < attrs.goodsList.length; i++) {\n    var goods = attrs.goodsList[i];\n    var itemID = typeof goods.item == 'number' ? goods.item : goods.item.id;\n    var goodsName = \"\\u9053\\u5177: [\" + itemID + \"-\" + getModuleDataName(5, itemID) + \"]\";\n    if (goods.isEquip) {\n        var equipID = typeof goods.equip == 'number' ? goods.equip : goods.equip.id;\n        goodsName = \"\\u88C5\\u5907: [\" + equipID + \"-\" + getModuleDataName(4, equipID) + \"]\";\n    }\n    if (goods.numberType == 0) {\n        goodsName += \" \\u6570\\u91CF:\\u65E0\\u9650\";\n    }\n    else if (goods.numberType == 1) {\n        goodsName += \" \\u6570\\u91CF:\" + goods.number;\n    }\n    else if (goods.numberType == 2) {\n        goodsName += \" \\u6570\\u91CF:\" + MathUtils.fixIntDigit(goods.numberVar, 4) + \"-\" + GameListData.getName(Game.data.playerVariableNameList, goods.numberVar);\n    }\n    if (goods.priceType == 0) {\n        goodsName += \" \\u4EF7\\u683C:\\u9ED8\\u8BA4\";\n    }\n    else if (goods.priceType == 1) {\n        goodsName += \" \\u4EF7\\u683C:\" + goods.price;\n    }\n    else if (goods.priceType == 2) {\n        goodsName += \" \\u4EF7\\u683C:\" + MathUtils.fixIntDigit(goods.priceVar, 4) + \"-\" + GameListData.getName(Game.data.playerVariableNameList, goods.priceVar);\n    }\n    str += \"\\n\" + goodsName;\n}\nstr += \" \\n\\u65E0\\u9650\\u6570\\u91CF\\u65F6\\u7684\\u4EE3\\u79F0:\" + attrs.nameWhenInfinite + \" \" + (attrs.enableSell ? \"\\u5141\\u8BB8\\u51FA\\u552E \\u6298\\u6263:\" + attrs.discount : '不允许出售') + \" \";\nstr;\n"
+}

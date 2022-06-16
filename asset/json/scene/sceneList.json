@@ -1,0 +1,63 @@
+{
+    "list": [
+        null,
+        "范例演示",
+        "综合战斗",
+        "普通战斗",
+        "会定期刷新的敌人",
+        null,
+        "剧情战斗",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "node": [
+        {
+            "id": 1,
+            "name": "范例演示",
+            "children": [
+                {
+                    "id": 2,
+                    "name": "综合战斗",
+                    "children": []
+                },
+                {
+                    "id": 3,
+                    "name": "普通战斗",
+                    "children": []
+                },
+                {
+                    "id": 4,
+                    "name": "会定期刷新的敌人",
+                    "children": [],
+                    "isOpen": true
+                },
+                {
+                    "id": 6,
+                    "name": "剧情战斗",
+                    "children": []
+                }
+            ],
+            "isOpen": true
+        }
+    ]
+}

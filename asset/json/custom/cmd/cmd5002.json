@@ -1,0 +1,17 @@
+{
+    "compAutoOrderLimitHeight": 0,
+    "id": 5002,
+    "blockList": [
+        {
+            "name": "未命名块",
+            "blockAttrs": [],
+            "blockCondition": [],
+            "blockHeight": 300,
+            "autoOrder": true,
+            "hideBlockTitle": false,
+            "cmdColor": "#FFFFFF",
+            "cmdIcon": "editorAsset/img/command/eP_icon_Plug_white.png"
+        }
+    ],
+    "isCustomPhraseDesc": false
+}

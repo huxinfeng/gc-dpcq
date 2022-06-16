@@ -1,0 +1,163 @@
+{
+    "totalFrame": 15,
+    "imageSources": [
+        null,
+        {
+            "x": -96,
+            "y": 0,
+            "width": 96,
+            "height": 96,
+            "url": "asset/image/avatar/monster/satan/Satan_release.png"
+        }
+    ],
+    "layers": [
+        {
+            "type": 0,
+            "name": "目标层",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "x": 0,
+                    "y": 0,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "frameinterpolationEnabled": true,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer1",
+            "children": [
+                {
+                    "type": 1,
+                    "name": "layer",
+                    "children": [],
+                    "frames": [
+                        {
+                            "index": 0,
+                            "horizontalReversal": false,
+                            "hue": 0,
+                            "blur": 0,
+                            "tonal_r": 0,
+                            "tonal_g": 0,
+                            "tonal_b": 0,
+                            "tonal_gray": 0,
+                            "tonal_mr": 1,
+                            "tonal_mg": 4.66,
+                            "tonal_mb": 1,
+                            "x": -48,
+                            "y": -48,
+                            "rotation": 0,
+                            "alpha": 1,
+                            "width": 96,
+                            "height": 96,
+                            "imageSource": 1,
+                            "frameinterpolationEnabled": true
+                        },
+                        {
+                            "index": 7,
+                            "frameinterpolationEnabled": true,
+                            "horizontalReversal": false,
+                            "hue": 0,
+                            "blur": 0,
+                            "tonal_r": 0,
+                            "tonal_g": 0,
+                            "tonal_b": 0,
+                            "tonal_gray": 0,
+                            "tonal_mr": 4.87,
+                            "tonal_mg": 1,
+                            "tonal_mb": 1,
+                            "x": -75,
+                            "y": -75,
+                            "rotation": 0,
+                            "alpha": 1,
+                            "width": 150,
+                            "height": 150,
+                            "imageSource": 1,
+                            "signalId": 0
+                        },
+                        {
+                            "index": 14,
+                            "frameinterpolationEnabled": true,
+                            "horizontalReversal": false,
+                            "hue": 0,
+                            "blur": 0,
+                            "tonal_r": 0,
+                            "tonal_g": 0,
+                            "tonal_b": 0,
+                            "tonal_gray": 0,
+                            "tonal_mr": 1,
+                            "tonal_mg": 3.63,
+                            "tonal_mb": 1,
+                            "x": -75,
+                            "y": -75,
+                            "rotation": 0,
+                            "alpha": 1,
+                            "width": 150,
+                            "height": 150,
+                            "imageSource": 1
+                        }
+                    ],
+                    "isHitEffect": false,
+                    "ishide": false,
+                    "islock": false
+                }
+            ],
+            "frames": [
+                {
+                    "index": 0,
+                    "frameinterpolationEnabled": true,
+                    "horizontalReversal": false,
+                    "x": 0,
+                    "y": 0,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 100,
+                    "height": 100,
+                    "imageSource": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 14,
+                    "frameinterpolationEnabled": true,
+                    "horizontalReversal": false,
+                    "x": 0,
+                    "y": 0,
+                    "rotation": 720,
+                    "alpha": 1,
+                    "width": 100,
+                    "height": 100,
+                    "imageSource": 0,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        }
+    ],
+    "isParticle": false,
+    "id": 43,
+    "particleData": null
+}

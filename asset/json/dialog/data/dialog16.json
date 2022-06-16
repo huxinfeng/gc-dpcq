@@ -1,0 +1,191 @@
+{
+    "initData": true,
+    "previewMode": false,
+    "dialogBox": {
+        "x": 104,
+        "y": 513,
+        "width": 963,
+        "height": 180,
+        "alpha": 1,
+        "image": "asset/image/picture/临时5.png",
+        "flip": false,
+        "grid9": "0,0,0,0,0",
+        "showOnEditor": true,
+        "mouseEventEnabledInEditor": true,
+        "materialData": [
+            {
+                "materials": []
+            }
+        ],
+        "index": 1
+    },
+    "headBox": {
+        "x": -291,
+        "y": 394,
+        "width": 150,
+        "height": 140,
+        "alpha": 1,
+        "locksize": true,
+        "adaptation": true,
+        "previewHeadImg": "editorAsset/img/ui_pic.png",
+        "flip": true,
+        "perviewMode": 1,
+        "previewStandAvatarID": 1,
+        "previewStandAvatarExp": 0,
+        "previewAnimationID": 0,
+        "previewUIID": 0,
+        "viewscaleX": 1,
+        "viewscaleY": 1,
+        "viewFps": 12,
+        "viewPlayOnce": false,
+        "showOnEditor": true,
+        "mouseEventEnabledInEditor": true,
+        "materialData": [
+            {
+                "materials": []
+            }
+        ],
+        "index": 0
+    },
+    "optionBox": {
+        "x": 390,
+        "y": 165,
+        "width": 400,
+        "height": 50,
+        "alpha": 1,
+        "column": 1,
+        "columnSpaceing": 5,
+        "row": 2,
+        "rowSpaceing": 40,
+        "image1": "asset/image/picture/control/dialogNormal.png",
+        "grid9img1": "0,0,0,0,0",
+        "image2": "asset/image/picture/control/dialogOpOver.png",
+        "grid9img2": "0,0,0,0,0",
+        "image3": "asset/image/picture/control/dialogOpDown.png",
+        "grid9img3": "0,0,0,0,0",
+        "overSe": "",
+        "overVolume": 1,
+        "overPitch": 1,
+        "clickSe": "",
+        "clickVolume": 1,
+        "clikcPitch": 1,
+        "selectImageURL": "asset/image/picture/control/dialogSelect.png",
+        "grid9img4": "0,0,0,0,0",
+        "showOnEditor": true,
+        "mouseEventEnabledInEditor": true,
+        "materialData": [
+            {
+                "materials": []
+            }
+        ],
+        "index": 2
+    },
+    "dialog": {
+        "x": 128,
+        "y": 572,
+        "width": 919,
+        "height": 108,
+        "alpha": 1,
+        "fontSize": 18,
+        "color": "#ad8c5b",
+        "bold": true,
+        "italic": false,
+        "align": 0,
+        "leading": 11,
+        "letterSpacing": 1,
+        "font": "思源黑体",
+        "shadowEnabled": false,
+        "shadowColor": "#3d3d3d",
+        "shadowDx": 2,
+        "shadowDy": 2,
+        "stroke": 1,
+        "strokeColor": "#2e2d2d",
+        "showOnEditor": true,
+        "mouseEventEnabledInEditor": true,
+        "wordWrap": true,
+        "materialData": [
+            {
+                "materials": []
+            }
+        ],
+        "index": 3,
+        "valign": 0
+    },
+    "option": {
+        "x": 415,
+        "y": 172,
+        "width": 350,
+        "height": 35,
+        "alpha": 1,
+        "fontSize": 24,
+        "color": "#FFFFFF",
+        "bold": false,
+        "italic": false,
+        "align": 1,
+        "leading": 0,
+        "letterSpacing": 0,
+        "font": "宋体",
+        "valign": 1,
+        "shadowEnabled": false,
+        "shadowColor": "#000000",
+        "shadowDx": 1,
+        "shadowDy": 1,
+        "stroke": 0,
+        "strokeColor": "#000000",
+        "showOnEditor": true,
+        "mouseEventEnabledInEditor": true,
+        "materialData": [
+            {
+                "materials": []
+            }
+        ],
+        "index": 4
+    },
+    "nameBox": {
+        "x": 145,
+        "y": 524,
+        "width": 140,
+        "height": 30,
+        "alpha": 1,
+        "fontSize": 22,
+        "color": "#d6c5b3",
+        "bold": true,
+        "italic": false,
+        "align": 1,
+        "leading": 0,
+        "letterSpacing": 0,
+        "font": "华文行楷",
+        "valign": 1,
+        "shadowEnabled": false,
+        "shadowColor": "#000000",
+        "shadowDx": 1,
+        "shadowDy": 1,
+        "stroke": 1,
+        "strokeColor": "#000000",
+        "showOnEditor": true,
+        "mouseEventEnabledInEditor": true,
+        "materialData": [
+            {
+                "materials": []
+            }
+        ],
+        "index": 5
+    },
+    "skipBox": {
+        "x": 1030,
+        "y": 672,
+        "width": 0,
+        "height": 23,
+        "alpha": 1,
+        "posIndex": 0,
+        "posX": 0,
+        "posY": 0,
+        "animationID": 1005,
+        "scaleNumber": 1,
+        "playType": 2,
+        "showOnEditor": true,
+        "mouseEventEnabledInEditor": true,
+        "index": 6
+    },
+    "id": 16
+}

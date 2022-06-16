@@ -1,0 +1,100 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "52590847615_0.6478141175022349",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "技能图标背景",
+                "x": 0,
+                "y": 0,
+                "width": 54,
+                "height": 54,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": false,
+                "image": "asset/image/picture/ui/team/skillBg.png",
+                "grid9": "1,1,1,1,0",
+                "flip": null,
+                "pivotType": 0,
+                "children": [
+                    {
+                        "id": "53933429151_0.5189281144086832",
+                        "condition": [],
+                        "type": "UIRoot",
+                        "name": "技能图标容器",
+                        "x": 3,
+                        "y": 3,
+                        "width": 48,
+                        "height": 48,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": false,
+                        "scrollShowType": 2,
+                        "hScrollBar": "asset/image/picture/control/hscroll_bar.png",
+                        "hScrollBg": "asset/image/picture/control/hscroll_bg.png",
+                        "vScrollBar": "asset/image/picture/control/vscroll_bar.png",
+                        "vScrollBg": "asset/image/picture/control/vscroll_bg.png",
+                        "scrollWidth": 16,
+                        "slowmotionType": 0,
+                        "enabledWheel": true,
+                        "hScrollValue": 0,
+                        "vScrollValue": 0,
+                        "children": [
+                            {
+                                "id": "52590847615_0.9811374449238053",
+                                "condition": [],
+                                "type": "UIBitmap",
+                                "name": "icon",
+                                "x": 0,
+                                "y": 0,
+                                "width": 48,
+                                "height": 48,
+                                "opacity": 1,
+                                "rotation": 0,
+                                "show": true,
+                                "mouseEventEnabledData": true,
+                                "materialData": [
+                                    {
+                                        "materials": []
+                                    }
+                                ],
+                                "mouseEventEnabledInEditor": true,
+                                "showOnEditor": true,
+                                "hasCommand": [],
+                                "isOpen": true,
+                                "image": "asset/image/picture/icon/skill/Skill_4.png",
+                                "grid9": "3,3,3,3,0",
+                                "flip": null,
+                                "pivotType": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "id": 1006,
+    "instanceClassName": "",
+    "hasRootCommand": []
+}

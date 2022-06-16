@@ -1,0 +1,417 @@
+{
+    "compAutoOrderLimitHeight": 0,
+    "id": 7001,
+    "blockList": [
+        {
+            "name": "播放背景音乐",
+            "blockAttrs": [
+                {
+                    "attr": {
+                        "id": "74577032484_0.13493609495640202",
+                        "varName": "bgm",
+                        "varType": 1,
+                        "compData": {
+                            "compType": 13,
+                            "compParam": {
+                                "modeType": 1,
+                                "rootPath": "asset/audio/bgm/",
+                                "formatType": "mp3,ogg"
+                            }
+                        },
+                        "defaultValue": "",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "选择一首背景音乐，背景音乐是自动循环播放的。",
+                        "alias": "选择",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": false,
+                        "titleWidth": 60,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [
+                        {
+                            "attrID": null,
+                            "value": null,
+                            "isExpression": true,
+                            "jsCode": "!attrs.bgmUseVar || !attrs.advanceSetting;\n",
+                            "tsCode": "// 根据属性名称值编写条件表达式（目前支持选择框和复选框），如： (attrs.xxx>5 && attrs.yyy<=10) || attrs.zzz==6;\r\n!attrs.bgmUseVar || !attrs.advanceSetting",
+                            "codeName": "不使用变量的场合"
+                        }
+                    ],
+                    "y": 10,
+                    "x": 17,
+                    "width": 350,
+                    "height": 32
+                },
+                {
+                    "attr": {
+                        "id": "74578579319_0.15291120828407134",
+                        "varName": "bgmVarID",
+                        "varType": 0,
+                        "compData": {
+                            "compType": 8,
+                            "compParam": {}
+                        },
+                        "defaultValue": "1",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "字符串储存地址规格：相对路径,音量,音调\\n可以省略音量和音调 \\n比如：asset/audio/bgm/xxx.mp3,1,1\\n或者：asset/audio/bgm/xxx.mp3",
+                        "alias": "选择",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": false,
+                        "titleWidth": 60,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [
+                        {
+                            "attrID": "74578437868_0.8072901569041822",
+                            "value": true,
+                            "isExpression": false,
+                            "jsCode": null,
+                            "tsCode": null,
+                            "codeName": null
+                        },
+                        {
+                            "attrID": "74578368784_0.14741385337394952",
+                            "value": true,
+                            "isExpression": false,
+                            "jsCode": null,
+                            "tsCode": null,
+                            "codeName": null
+                        }
+                    ],
+                    "y": 10,
+                    "x": 17,
+                    "width": 350,
+                    "height": 32
+                },
+                {
+                    "attr": {
+                        "id": "74577096874_0.3591907761287778",
+                        "varName": "fadeInTime",
+                        "varType": 0,
+                        "compData": {
+                            "compType": 0,
+                            "compParam": {
+                                "lowerLimit": 0,
+                                "upperLimit": 100,
+                                "stepValue": 1,
+                                "limitInteger": true,
+                                "lockTextLimit": true,
+                                "xDragEnabled": true,
+                                "yDragEnabled": true
+                            }
+                        },
+                        "defaultValue": "",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "开头音乐逐渐淡入的时间，单位：秒",
+                        "alias": "淡入效果",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": false,
+                        "titleWidth": 60,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [
+                        {
+                            "attrID": null,
+                            "value": null,
+                            "isExpression": true,
+                            "jsCode": "!attrs.fadeInTimeUseVar || !attrs.advanceSetting;\n",
+                            "tsCode": "// 根据属性名称值编写条件表达式（目前支持选择框和复选框），如： (attrs.xxx>5 && attrs.yyy<=10) || attrs.zzz==6;\r\n!attrs.fadeInTimeUseVar || !attrs.advanceSetting",
+                            "codeName": "不使用变量的场合"
+                        }
+                    ],
+                    "y": 54,
+                    "x": 17,
+                    "width": 140,
+                    "height": 32
+                },
+                {
+                    "attr": {
+                        "id": "74578604912_0.9929207213758935",
+                        "varName": "fadeInTimeVarID",
+                        "varType": 0,
+                        "compData": {
+                            "compType": 6,
+                            "compParam": {
+                                "lowerLimit": 0,
+                                "upperLimit": 100,
+                                "stepValue": 1,
+                                "limitInteger": true,
+                                "lockTextLimit": true,
+                                "xDragEnabled": true,
+                                "yDragEnabled": true
+                            }
+                        },
+                        "defaultValue": "1",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "开头音乐逐渐淡入的时间，单位：秒",
+                        "alias": "淡入效果",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": false,
+                        "titleWidth": 60,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [
+                        {
+                            "attrID": "74578505525_0.42967771881669203",
+                            "value": true,
+                            "isExpression": false,
+                            "jsCode": null,
+                            "tsCode": null,
+                            "codeName": null
+                        },
+                        {
+                            "attrID": "74578368784_0.14741385337394952",
+                            "value": true,
+                            "isExpression": false,
+                            "jsCode": null,
+                            "tsCode": null,
+                            "codeName": null
+                        }
+                    ],
+                    "y": 54,
+                    "x": 17,
+                    "width": 350,
+                    "height": 32
+                },
+                {
+                    "attr": {
+                        "id": "74577162418_0.4029269359867105",
+                        "varName": "秒",
+                        "varType": 1,
+                        "compData": {
+                            "compType": 32,
+                            "compParam": {}
+                        },
+                        "defaultValue": "",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "",
+                        "alias": "",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [
+                        {
+                            "attrID": "74578505525_0.42967771881669203",
+                            "value": false,
+                            "isExpression": false,
+                            "jsCode": null,
+                            "tsCode": null,
+                            "codeName": null
+                        }
+                    ],
+                    "y": 64,
+                    "x": 164,
+                    "width": 23,
+                    "height": 21
+                },
+                {
+                    "attr": {
+                        "id": "74578368784_0.14741385337394952",
+                        "varName": "advanceSetting",
+                        "varType": 2,
+                        "compData": {
+                            "compType": 15,
+                            "compParam": {}
+                        },
+                        "defaultValue": "",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "",
+                        "alias": "高级设置",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [],
+                    "y": 92,
+                    "x": 17,
+                    "width": 200,
+                    "height": 32
+                }
+            ],
+            "blockCondition": [],
+            "blockHeight": 130,
+            "autoOrder": true,
+            "hideBlockTitle": true,
+            "cmdColor": "#59ffba",
+            "cmdIcon": "asset/image/command/eP_icon_Audio_fluorescentgreen.png"
+        },
+        {
+            "name": "高级设定",
+            "blockAttrs": [
+                {
+                    "attr": {
+                        "id": "74578437868_0.8072901569041822",
+                        "varName": "bgmUseVar",
+                        "varType": 2,
+                        "compData": {
+                            "compType": 15,
+                            "compParam": {}
+                        },
+                        "defaultValue": "",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "勾选此项后将使用字符串变量决定音乐地址。\\n字符串储存地址规格：相对路径,音量,音调\\n可以省略音量和音调 \\n比如：asset/audio/bgm/xxx.mp3,1,1\\n或者：asset/audio/bgm/xxx.mp3",
+                        "alias": "音乐地址使用变量",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [],
+                    "y": 10,
+                    "x": 15,
+                    "width": 126,
+                    "height": 32
+                },
+                {
+                    "attr": {
+                        "id": "74578505525_0.42967771881669203",
+                        "varName": "fadeInTimeUseVar",
+                        "varType": 2,
+                        "compData": {
+                            "compType": 15,
+                            "compParam": {}
+                        },
+                        "defaultValue": "",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "勾选此项后将使用指定的数值变量决定淡入时间",
+                        "alias": "淡入效果使用变量",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false
+                    },
+                    "attrConditions": [],
+                    "y": 40,
+                    "x": 15,
+                    "width": 126,
+                    "height": 32
+                }
+            ],
+            "blockCondition": [
+                {
+                    "attrID": "74578368784_0.14741385337394952",
+                    "value": true,
+                    "isExpression": false,
+                    "jsCode": null,
+                    "tsCode": null,
+                    "codeName": null
+                }
+            ],
+            "blockHeight": 80,
+            "autoOrder": true,
+            "hideBlockTitle": false
+        }
+    ],
+    "isCustomPhraseDesc": true,
+    "compAutoOrder": false,
+    "fastModifyAttribute": true,
+    "customPhraseDescTS": "// 根据属性名称值编写自定义短语描述，如：\"我的短语是\"+attrs.xxx\n// 使用下拉框组件的变量attrs.xxx有对应的attrs.xxxItems的属性以便获得标签名集合\n// 获取自定义模块的数据名称的函数：getModuleDataName(moduleID:number,dataID:number):string;\n// 获取各种列表内数据名称的函数：getTypeDataListName(typeID: number, dataID: number):string;\n// -- typeID ：0-全局变量 1-全局开关 2-全局字符串 3-玩家变量 4-玩家开关 5-玩家字符串\n//           ：6-场景列表 7-场景对象模型列表 8-图块列表 9-行走图列表 10-行走图动作列表 11-立绘列表 12-立绘表情列表\n//           ：13-公共事件 14-对话框列表 15-动画列表 16-动画信号列表 17-界面列表 18-数据结构列表 19-自定义模块列表\n//           ：20-自定义命令列表 21-自定义行为列表 22-自动元件列表 23-行走图部件列表 24-立绘部件列表 25-材质列表\nif (!attrs.bgm) {\n    \"无\";\n}\nelse {\n    var volumeAndToneStr = \"\";\n    if (attrs.advanceSetting && attrs.bgmUseVar) {\n        var filename = `「${attrs.bgmVarID}-${getTypeDataListName(5, attrs.bgmVarID)}」`;\n    }\n    else {\n        var filenameArr = attrs.bgm.split(\"/\").pop().split(\",\");\n        var filename = filenameArr[0];\n        var volume = Math.floor(parseFloat(filenameArr[1]) * 100);\n        var tone = Math.floor(parseFloat(filenameArr[2]) * 100);\n        volumeAndToneStr = `音量:${volume}% 音调:${tone}%`;\n    }\n    var fadeInStr = \"\";\n    if (attrs.advanceSetting && attrs.fadeInTimeUseVar) {\n        fadeInStr = \" 淡入:\" + `「${attrs.fadeInTimeVarID}-${getTypeDataListName(3, attrs.fadeInTimeVarID)}」` + \"秒\";\n    }\n    else {\n        if (attrs.fadeInTime != 0) {\n            fadeInStr = \" 淡入:\" + attrs.fadeInTime + \"秒\";\n        }\n    }\n    `${filename} ${volumeAndToneStr}${fadeInStr}`;\n}\n",
+    "customPhraseDescJS": "if (!attrs.bgm) {\n    \"无\";\n}\nelse {\n    var volumeAndToneStr = \"\";\n    if (attrs.advanceSetting && attrs.bgmUseVar) {\n        var filename = \"\\u300C\" + attrs.bgmVarID + \"-\" + getTypeDataListName(5, attrs.bgmVarID) + \"\\u300D\";\n    }\n    else {\n        var filenameArr = attrs.bgm.split(\"/\").pop().split(\",\");\n        var filename = filenameArr[0];\n        var volume = Math.floor(parseFloat(filenameArr[1]) * 100);\n        var tone = Math.floor(parseFloat(filenameArr[2]) * 100);\n        volumeAndToneStr = \"\\u97F3\\u91CF:\" + volume + \"% \\u97F3\\u8C03:\" + tone + \"%\";\n    }\n    var fadeInStr = \"\";\n    if (attrs.advanceSetting && attrs.fadeInTimeUseVar) {\n        fadeInStr = \" 淡入:\" + (\"\\u300C\" + attrs.fadeInTimeVarID + \"-\" + getTypeDataListName(3, attrs.fadeInTimeVarID) + \"\\u300D\") + \"秒\";\n    }\n    else {\n        if (attrs.fadeInTime != 0) {\n            fadeInStr = \" 淡入:\" + attrs.fadeInTime + \"秒\";\n        }\n    }\n    filename + \" \" + volumeAndToneStr + fadeInStr;\n}\n"
+}

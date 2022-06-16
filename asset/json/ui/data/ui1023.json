@@ -1,0 +1,87 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "57172625682_0.044597855470093206",
+                "condition": [],
+                "type": "UISlider",
+                "name": "hpBar",
+                "x": -45,
+                "y": -81,
+                "width": 92,
+                "height": 8,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image1": "asset/image/picture/ui/backpack/hpmpbg.png",
+                "bgGrid9": "3,0,2,4,0",
+                "image2": "",
+                "blockGrid9": "0,0,0,0,0",
+                "image3": "asset/image/picture/ui/backpack/hpBar.png",
+                "blockFillGrid9": "0,0,0,0,0",
+                "step": 1,
+                "min": 0,
+                "max": 100,
+                "value": 50,
+                "transverseMode": true,
+                "blockFillMode": 1,
+                "blockPosMode": 0,
+                "fillStrething": true
+            },
+            {
+                "id": "57177554820_0.025971612572926128",
+                "condition": [],
+                "type": "UIString",
+                "name": "hpText",
+                "x": -153,
+                "y": -96,
+                "width": 200,
+                "height": 15,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "text": "100/100",
+                "fontSize": 12,
+                "color": "#ffffff",
+                "bold": false,
+                "italic": false,
+                "align": 2,
+                "valign": 0,
+                "leading": 0,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "wordWrap": true,
+                "overflow": 0,
+                "shadowColor": "#000000",
+                "shadowDx": 1,
+                "shadowDy": 1,
+                "stroke": 0,
+                "strokeColor": "#000000"
+            }
+        ]
+    },
+    "id": 1023,
+    "avatarMode": true,
+    "instanceClassName": "",
+    "hasRootCommand": []
+}

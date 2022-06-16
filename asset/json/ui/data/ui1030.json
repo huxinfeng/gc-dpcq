@@ -1,0 +1,164 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "52590847615_0.6478141175022349",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "iconBg",
+                "x": 0,
+                "y": 0,
+                "width": 50,
+                "height": 50,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/other/Black.png",
+                "grid9": "1,1,1,1,0",
+                "flip": null,
+                "pivotType": 0,
+                "children": [
+                    {
+                        "id": "53933429151_0.5189281144086832",
+                        "condition": [],
+                        "type": "UIRoot",
+                        "name": "target",
+                        "x": 0,
+                        "y": 0,
+                        "width": 50,
+                        "height": 50,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "enabledLimitView": null,
+                        "scrollShowType": 0,
+                        "hScrollBar": "asset/image/picture/control/hscroll_bar.png",
+                        "hScrollBg": "asset/image/picture/control/hscroll_bg.png",
+                        "vScrollBar": "asset/image/picture/control/vscroll_bar.png",
+                        "vScrollBg": "asset/image/picture/control/vscroll_bg.png",
+                        "scrollWidth": 16,
+                        "slowmotionType": 0,
+                        "enabledWheel": false,
+                        "hScrollValue": 0,
+                        "vScrollValue": 0,
+                        "children": [
+                            {
+                                "id": "57330328981_0.24186442699745725",
+                                "condition": [],
+                                "type": "UIBitmap",
+                                "name": "iconBlack",
+                                "x": 0,
+                                "y": 0,
+                                "width": 50,
+                                "height": 50,
+                                "opacity": 1,
+                                "rotation": 0,
+                                "show": true,
+                                "mouseEventEnabledData": true,
+                                "materialData": [
+                                    {
+                                        "materials": []
+                                    }
+                                ],
+                                "mouseEventEnabledInEditor": true,
+                                "showOnEditor": true,
+                                "hasCommand": [],
+                                "isOpen": true,
+                                "image": "asset/image/picture/control/uibitmap.png",
+                                "grid9": "0,0,0,0,0",
+                                "flip": null,
+                                "pivotType": 0
+                            },
+                            {
+                                "id": "52590847615_0.9811374449238053",
+                                "condition": [],
+                                "type": "UIBitmap",
+                                "name": "icon",
+                                "x": 0,
+                                "y": 0,
+                                "width": 50,
+                                "height": 50,
+                                "opacity": 1,
+                                "rotation": 0,
+                                "show": true,
+                                "mouseEventEnabledData": true,
+                                "materialData": [
+                                    {
+                                        "materials": []
+                                    }
+                                ],
+                                "mouseEventEnabledInEditor": true,
+                                "showOnEditor": true,
+                                "hasCommand": [],
+                                "isOpen": true,
+                                "image": "asset/image/picture/icon/skill/Skill_7.png",
+                                "grid9": "3,3,3,3,0",
+                                "flip": null,
+                                "pivotType": 0,
+                                "children": [
+                                    {
+                                        "id": "57330403597_0.7311161291496073",
+                                        "condition": [],
+                                        "type": "UIRoot",
+                                        "name": "coolingMask",
+                                        "x": 0,
+                                        "y": 0,
+                                        "width": 50,
+                                        "height": 50,
+                                        "opacity": 1,
+                                        "rotation": 0,
+                                        "show": true,
+                                        "mouseEventEnabledData": true,
+                                        "materialData": [
+                                            {
+                                                "materials": []
+                                            }
+                                        ],
+                                        "mouseEventEnabledInEditor": true,
+                                        "showOnEditor": true,
+                                        "hasCommand": [],
+                                        "isOpen": true,
+                                        "enabledLimitView": null,
+                                        "scrollShowType": 2,
+                                        "hScrollBar": "asset/image/picture/control/hscroll_bar.png",
+                                        "hScrollBg": "asset/image/picture/control/hscroll_bg.png",
+                                        "vScrollBar": "asset/image/picture/control/vscroll_bar.png",
+                                        "vScrollBg": "asset/image/picture/control/vscroll_bg.png",
+                                        "scrollWidth": 16,
+                                        "slowmotionType": 0,
+                                        "enabledWheel": true,
+                                        "hScrollValue": 0,
+                                        "vScrollValue": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "id": 1030,
+    "instanceClassName": "GUI_SkillIcon",
+    "hasRootCommand": []
+}

@@ -1,0 +1,279 @@
+{
+    "list": {
+        "1": [
+            null,
+            "我的事件1",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "15": [
+            null,
+            "启动游戏",
+            "档案初始化",
+            "新的档案-开始",
+            "新的档案-完成",
+            "读取档案-开始",
+            "读取档案-完成",
+            "读取档案-失败",
+            "储存档案-成功",
+            "储存档案-失败",
+            "进入场景",
+            "离开场景",
+            "点击事件-开始",
+            "碰触事件-开始",
+            "离开碰触-开始",
+            "出现事件-开始",
+            "对象行为-开始",
+            "对象行为-结束",
+            "",
+            "",
+            "进入战斗",
+            "离开战斗",
+            "主角阵亡",
+            "升级时事件"
+        ],
+        "16": [
+            null,
+            "菜单",
+            "开始奔跑",
+            "停止奔跑",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "type": {
+        "1": "",
+        "2": "",
+        "13": "",
+        "16": "模板预设"
+    },
+    "typeTreeNode": {
+        "isDirectory": true,
+        "children": [
+            {
+                "isDirectory": true,
+                "children": [
+                    {
+                        "id": 14001,
+                        "name": "启动游戏",
+                        "children": []
+                    },
+                    {
+                        "isDirectory": true,
+                        "children": [
+                            {
+                                "id": 14002,
+                                "name": "档案初始化",
+                                "children": []
+                            },
+                            {
+                                "id": 14003,
+                                "name": "新的档案-开始",
+                                "children": []
+                            },
+                            {
+                                "id": 14004,
+                                "name": "新的档案-完成",
+                                "children": []
+                            },
+                            {
+                                "id": 14005,
+                                "name": "读取档案-开始",
+                                "children": []
+                            },
+                            {
+                                "id": 14006,
+                                "name": "读取档案-完成",
+                                "children": []
+                            },
+                            {
+                                "id": 14007,
+                                "name": "读取档案-失败",
+                                "children": []
+                            },
+                            {
+                                "id": 14008,
+                                "name": "储存档案-成功",
+                                "children": []
+                            },
+                            {
+                                "id": 14009,
+                                "name": "储存档案-失败",
+                                "children": []
+                            }
+                        ],
+                        "isOpen": true,
+                        "name": "游戏档案",
+                        "id": null
+                    },
+                    {
+                        "isDirectory": true,
+                        "children": [
+                            {
+                                "id": 14010,
+                                "name": "进入场景",
+                                "children": []
+                            },
+                            {
+                                "id": 14011,
+                                "name": "离开场景",
+                                "children": []
+                            }
+                        ],
+                        "isOpen": false,
+                        "name": "场景事件",
+                        "id": null
+                    },
+                    {
+                        "isDirectory": true,
+                        "children": [
+                            {
+                                "id": 14012,
+                                "name": "点击事件-开始",
+                                "children": []
+                            },
+                            {
+                                "id": 14013,
+                                "name": "碰触事件-开始",
+                                "children": []
+                            },
+                            {
+                                "id": 14014,
+                                "name": "离开碰触-开始",
+                                "children": []
+                            },
+                            {
+                                "id": 14015,
+                                "name": "出现事件-开始",
+                                "children": []
+                            },
+                            {
+                                "id": 14016,
+                                "name": "对象行为-开始",
+                                "children": [],
+                                "isOpen": true
+                            },
+                            {
+                                "id": 14017,
+                                "children": [],
+                                "isOpen": true,
+                                "name": "对象行为-结束"
+                            }
+                        ],
+                        "isOpen": true,
+                        "name": "场景对象事件",
+                        "id": null
+                    },
+                    {
+                        "isDirectory": true,
+                        "children": [
+                            {
+                                "id": 15001,
+                                "name": "菜单",
+                                "children": []
+                            },
+                            {
+                                "id": 15002,
+                                "name": "开始奔跑",
+                                "children": []
+                            },
+                            {
+                                "id": 15003,
+                                "name": "停止奔跑",
+                                "children": []
+                            }
+                        ],
+                        "isOpen": true,
+                        "name": "通用",
+                        "id": null
+                    },
+                    {
+                        "isDirectory": true,
+                        "children": [
+                            {
+                                "id": 14020,
+                                "name": "进入战斗",
+                                "children": []
+                            },
+                            {
+                                "id": 14021,
+                                "name": "离开战斗",
+                                "children": []
+                            },
+                            {
+                                "id": 14022,
+                                "name": "主角阵亡",
+                                "children": []
+                            },
+                            {
+                                "id": 14023,
+                                "name": "升级时事件",
+                                "children": []
+                            }
+                        ],
+                        "isOpen": true,
+                        "name": "战斗事件",
+                        "id": null
+                    }
+                ],
+                "isOpen": false,
+                "name": "系统事件",
+                "id": null
+            },
+            {
+                "isDirectory": true,
+                "children": [
+                    {
+                        "id": 1,
+                        "children": [],
+                        "isOpen": true,
+                        "name": "我的事件1"
+                    }
+                ],
+                "isOpen": true,
+                "name": "我的事件",
+                "id": null
+            }
+        ],
+        "isOpen": true,
+        "name": "事件库"
+    },
+    "dataShowMode": 1
+}

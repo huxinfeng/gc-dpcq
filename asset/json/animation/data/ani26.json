@@ -1,0 +1,157 @@
+{
+    "totalFrame": 15,
+    "imageSources": [
+        null
+    ],
+    "layers": [
+        {
+            "type": 0,
+            "name": "目标层",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "x": 0,
+                    "y": 0,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": 0,
+                                    "g": 0,
+                                    "b": 0,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {},
+                                    "enable": true
+                                }
+                            ]
+                        }
+                    ],
+                    "frameinterpolationEnabled": true
+                },
+                {
+                    "index": 2,
+                    "x": 0,
+                    "y": 0,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": 1,
+                                    "g": 1,
+                                    "b": 1,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {}
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "index": 4,
+                    "x": 0,
+                    "y": 0,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": 0,
+                                    "g": 0,
+                                    "b": 0,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {}
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "index": 14,
+                    "x": 0,
+                    "y": 0,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": 0,
+                                    "g": 0,
+                                    "b": 0,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {}
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 3,
+            "name": "音效层",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "frameinterpolationEnabled": true
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false,
+            "audioInfo": {
+                "url": "asset/audio/se/battle/Bow_1.mp3,1,1.5",
+                "volume": 1,
+                "pitch": 1.5
+            }
+        }
+    ],
+    "isParticle": false,
+    "id": 26,
+    "particleData": null
+}

@@ -1,0 +1,112 @@
+{
+    "attrs": {
+        "icon": {
+            "varType": 1,
+            "value": "asset/image/picture/icon/equip/Clothes_4.png",
+            "copy": false
+        },
+        "intro": {
+            "varType": 1,
+            "value": "同样也是传说中的盔甲，却能在商店里买到。\n这就是有钱能使鬼推磨吧！\n免疫晕厥效果。",
+            "copy": false
+        },
+        "sell": {
+            "varType": 0,
+            "value": 1000,
+            "copy": false
+        },
+        "partID": {
+            "varType": 0,
+            "value": 2,
+            "copy": false
+        },
+        "sellEnabled": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "maxHP": {
+            "varType": 0,
+            "value": 200,
+            "copy": false
+        },
+        "maxSP": {
+            "varType": 0,
+            "value": 100,
+            "copy": false
+        },
+        "atk": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "def": {
+            "varType": 0,
+            "value": 50,
+            "copy": false
+        },
+        "mag": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "magDef": {
+            "varType": 0,
+            "value": 50,
+            "copy": false
+        },
+        "hit": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "agi": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "crit": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "magCrit": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "selfStatus": {
+            "varType": 6,
+            "value": [],
+            "copy": false
+        },
+        "selfImmuneStatus": {
+            "varType": 6,
+            "value": [
+                4
+            ],
+            "copy": false
+        },
+        "hitTargetStatus": {
+            "varType": 6,
+            "value": [],
+            "copy": false
+        },
+        "hitTargetSelfAddStatus": {
+            "varType": 6,
+            "value": [],
+            "copy": false
+        },
+        "infoLegend": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "actionSpeed": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        }
+    },
+    "id": 2004
+}

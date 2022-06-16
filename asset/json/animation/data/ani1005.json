@@ -1,0 +1,754 @@
+{
+    "totalFrame": 21,
+    "imageSources": [
+        null,
+        {
+            "x": 0,
+            "y": 0,
+            "width": 6,
+            "height": 6,
+            "url": "asset/image/animation/system/skip/Skip1.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 8,
+            "height": 8,
+            "url": "asset/image/animation/system/skip/Skip2.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "url": "asset/image/animation/system/skip/Skip3.png"
+        }
+    ],
+    "layers": [
+        {
+            "type": 0,
+            "name": "目标层",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "x": 0,
+                    "y": 0,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ],
+                    "frameinterpolationEnabled": true
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": true,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "horizontalReversal": false,
+                    "x": -15,
+                    "y": -2,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 6,
+                    "height": 6,
+                    "imageSource": 1,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ],
+                    "frameinterpolationEnabled": true
+                },
+                {
+                    "index": 20,
+                    "horizontalReversal": false,
+                    "x": -15,
+                    "y": -2,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 6,
+                    "height": 6,
+                    "imageSource": 1,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "horizontalReversal": false,
+                    "x": -3,
+                    "y": -2,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 6,
+                    "height": 6,
+                    "imageSource": 1,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ],
+                    "frameinterpolationEnabled": true
+                },
+                {
+                    "index": 20,
+                    "horizontalReversal": false,
+                    "x": -3,
+                    "y": -2,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 6,
+                    "height": 6,
+                    "imageSource": 1,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "horizontalReversal": false,
+                    "x": 9,
+                    "y": -2,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 6,
+                    "height": 6,
+                    "imageSource": 1,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ],
+                    "frameinterpolationEnabled": true
+                },
+                {
+                    "index": 20,
+                    "horizontalReversal": false,
+                    "x": 9,
+                    "y": -2,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 6,
+                    "height": 6,
+                    "imageSource": 1,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "horizontalReversal": false,
+                    "x": 20,
+                    "y": -2,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 6,
+                    "height": 6,
+                    "imageSource": 1,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ],
+                    "frameinterpolationEnabled": true
+                },
+                {
+                    "index": 20,
+                    "horizontalReversal": false,
+                    "x": 20,
+                    "y": -2,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 6,
+                    "height": 6,
+                    "imageSource": 1,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "horizontalReversal": false,
+                    "x": -26,
+                    "y": -2,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 6,
+                    "height": 6,
+                    "imageSource": 1,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ],
+                    "frameinterpolationEnabled": true
+                },
+                {
+                    "index": 20,
+                    "horizontalReversal": false,
+                    "x": -26,
+                    "y": -2,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 6,
+                    "height": 6,
+                    "imageSource": 1,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer1",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "horizontalReversal": false,
+                    "x": -27,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ],
+                    "frameinterpolationEnabled": true
+                },
+                {
+                    "index": 1,
+                    "horizontalReversal": false,
+                    "x": -27,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "horizontalReversal": false,
+                    "x": -27,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 0,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 4,
+                    "horizontalReversal": false,
+                    "x": -27,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 0,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer1",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "horizontalReversal": false,
+                    "x": -16,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 0,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ],
+                    "frameinterpolationEnabled": true
+                },
+                {
+                    "index": 1,
+                    "horizontalReversal": false,
+                    "x": -16,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 0,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "horizontalReversal": false,
+                    "x": -16,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 3,
+                    "horizontalReversal": false,
+                    "x": -16,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 4,
+                    "horizontalReversal": false,
+                    "x": -16,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 0,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer1",
+            "children": [],
+            "frames": [
+                {
+                    "index": 4,
+                    "horizontalReversal": false,
+                    "x": -4,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 0,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 5,
+                    "horizontalReversal": false,
+                    "x": -4,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 6,
+                    "horizontalReversal": false,
+                    "x": -4,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 7,
+                    "horizontalReversal": false,
+                    "x": -4,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 0,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer1",
+            "children": [],
+            "frames": [
+                {
+                    "index": 6,
+                    "horizontalReversal": false,
+                    "x": 8,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 0,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 7,
+                    "horizontalReversal": false,
+                    "x": 8,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 8,
+                    "horizontalReversal": false,
+                    "x": 8,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 9,
+                    "horizontalReversal": false,
+                    "x": 8,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 0,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer1",
+            "children": [],
+            "frames": [
+                {
+                    "index": 8,
+                    "horizontalReversal": false,
+                    "x": 19,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 0,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 9,
+                    "horizontalReversal": false,
+                    "x": 19,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 10,
+                    "horizontalReversal": false,
+                    "x": 19,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 11,
+                    "horizontalReversal": false,
+                    "x": 19,
+                    "y": -3,
+                    "rotation": 0,
+                    "alpha": 0,
+                    "width": 8,
+                    "height": 8,
+                    "imageSource": 2,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer2",
+            "children": [],
+            "frames": [
+                {
+                    "index": 7,
+                    "horizontalReversal": false,
+                    "x": 20,
+                    "y": -2,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 6,
+                    "height": 6,
+                    "imageSource": 3,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 13,
+                    "horizontalReversal": false,
+                    "x": 16,
+                    "y": -6,
+                    "rotation": 0,
+                    "alpha": 0.51,
+                    "width": 14,
+                    "height": 14,
+                    "imageSource": 3,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 15,
+                    "horizontalReversal": false,
+                    "x": 15,
+                    "y": -7,
+                    "rotation": 0,
+                    "alpha": 0.16,
+                    "width": 16,
+                    "height": 16,
+                    "imageSource": 3,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 17,
+                    "horizontalReversal": false,
+                    "x": 14,
+                    "y": -9,
+                    "rotation": 0,
+                    "alpha": 0,
+                    "width": 18,
+                    "height": 18,
+                    "imageSource": 3,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        }
+    ],
+    "isParticle": false,
+    "id": 1005,
+    "particleData": null
+}

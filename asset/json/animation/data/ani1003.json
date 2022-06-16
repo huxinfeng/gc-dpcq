@@ -1,0 +1,287 @@
+{
+    "totalFrame": 9,
+    "imageSources": [
+        null,
+        {
+            "x": 0,
+            "y": 0,
+            "width": 96,
+            "height": 96,
+            "url": "asset/image/animation/cursorEffect1/0.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 72,
+            "height": 72,
+            "url": "asset/image/animation/cursorEffect1/1.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 48,
+            "height": 48,
+            "url": "asset/image/animation/cursorEffect1/2.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 24,
+            "height": 24,
+            "url": "asset/image/animation/cursorEffect1/3.png"
+        }
+    ],
+    "layers": [
+        {
+            "type": 0,
+            "name": "目标层",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "x": 0,
+                    "y": 0,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ],
+                    "frameinterpolationEnabled": true
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer3",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "horizontalReversal": false,
+                    "x": -48,
+                    "y": -48,
+                    "rotation": 0,
+                    "alpha": 0.75,
+                    "width": 96,
+                    "height": 96,
+                    "imageSource": 1,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ],
+                    "frameinterpolationEnabled": true
+                },
+                {
+                    "index": 2,
+                    "horizontalReversal": false,
+                    "x": -36,
+                    "y": -36,
+                    "rotation": 0,
+                    "alpha": 0,
+                    "width": 72,
+                    "height": 72,
+                    "imageSource": 1,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "horizontalReversal": false,
+                    "x": -36,
+                    "y": -36,
+                    "rotation": 0,
+                    "alpha": 0.75,
+                    "width": 72,
+                    "height": 72,
+                    "imageSource": 2,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ],
+                    "frameinterpolationEnabled": true
+                },
+                {
+                    "index": 2,
+                    "horizontalReversal": false,
+                    "x": -36,
+                    "y": -36,
+                    "rotation": 0,
+                    "alpha": 0.75,
+                    "width": 72,
+                    "height": 72,
+                    "imageSource": 2,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 4,
+                    "horizontalReversal": false,
+                    "x": -24,
+                    "y": -24,
+                    "rotation": 0,
+                    "alpha": 0,
+                    "width": 48,
+                    "height": 48,
+                    "imageSource": 1,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer1",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "horizontalReversal": false,
+                    "x": -24,
+                    "y": -24,
+                    "rotation": 0,
+                    "alpha": 0.75,
+                    "width": 48,
+                    "height": 48,
+                    "imageSource": 3,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ],
+                    "frameinterpolationEnabled": true
+                },
+                {
+                    "index": 4,
+                    "horizontalReversal": false,
+                    "x": -24,
+                    "y": -24,
+                    "rotation": 0,
+                    "alpha": 0.75,
+                    "width": 48,
+                    "height": 48,
+                    "imageSource": 3,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 6,
+                    "horizontalReversal": false,
+                    "x": -12,
+                    "y": -12,
+                    "rotation": 0,
+                    "alpha": 0,
+                    "width": 24,
+                    "height": 24,
+                    "imageSource": 2,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer2",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "horizontalReversal": false,
+                    "x": -12,
+                    "y": -12,
+                    "rotation": 0,
+                    "alpha": 0.75,
+                    "width": 24,
+                    "height": 24,
+                    "imageSource": 4,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ],
+                    "frameinterpolationEnabled": true
+                },
+                {
+                    "index": 6,
+                    "horizontalReversal": false,
+                    "x": -12,
+                    "y": -12,
+                    "rotation": 0,
+                    "alpha": 0.75,
+                    "width": 24,
+                    "height": 24,
+                    "imageSource": 4,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 8,
+                    "horizontalReversal": false,
+                    "x": -2,
+                    "y": -2,
+                    "rotation": 0,
+                    "alpha": 0,
+                    "width": 4,
+                    "height": 4,
+                    "imageSource": 3,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        }
+    ],
+    "isParticle": false,
+    "id": 1003,
+    "particleData": null
+}

@@ -1,0 +1,207 @@
+{
+    "attrs": {
+        "icon": {
+            "varType": 1,
+            "value": "asset/image/picture/icon/skill/Skill_9.png",
+            "copy": false
+        },
+        "intro": {
+            "varType": 1,
+            "value": "对自身范围内敌方全体目标进行一次寒冰魔法打击，造成${Math.floor(s.damageValue+a.MAG*s.additionMultiple/100)}点魔法伤害！并附加冰结减速状态！",
+            "copy": false
+        },
+        "skillType": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "useCondition": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "targetType": {
+            "varType": 0,
+            "value": 4,
+            "copy": false
+        },
+        "targetNum": {
+            "varType": 0,
+            "value": 2,
+            "copy": false
+        },
+        "skillReleaseType": {
+            "varType": 0,
+            "value": 1,
+            "copy": false
+        },
+        "scanAngle": {
+            "varType": 0,
+            "value": 60,
+            "copy": false
+        },
+        "distance": {
+            "varType": 0,
+            "value": 300,
+            "copy": false
+        },
+        "hitRange": {
+            "varType": 0,
+            "value": 60,
+            "copy": false
+        },
+        "totalCD": {
+            "varType": 0,
+            "value": 10,
+            "copy": false
+        },
+        "hit": {
+            "varType": 0,
+            "value": 100,
+            "copy": false
+        },
+        "costSP": {
+            "varType": 0,
+            "value": 120,
+            "copy": false
+        },
+        "useDamage": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "releaseFrame": {
+            "varType": 0,
+            "value": 1,
+            "copy": false
+        },
+        "releaseActionID": {
+            "varType": 0,
+            "value": 3,
+            "copy": false
+        },
+        "useHate": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "useAction2": {
+            "varType": 2,
+            "value": false,
+            "copy": false
+        },
+        "releaseFrame2": {
+            "varType": 0,
+            "value": 1,
+            "copy": false
+        },
+        "releaseActionID2": {
+            "varType": 0,
+            "value": 1,
+            "copy": false
+        },
+        "bulletSpeed": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "bulletAnimation": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "bulletRotation": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "damageType": {
+            "varType": 0,
+            "value": 1,
+            "copy": false
+        },
+        "damageValue": {
+            "varType": 0,
+            "value": 150,
+            "copy": false
+        },
+        "additionMultiple": {
+            "varType": 0,
+            "value": 150,
+            "copy": false
+        },
+        "useAddition": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "additionMultipleType": {
+            "varType": 0,
+            "value": 1,
+            "copy": false
+        },
+        "fixedHeteValue": {
+            "varType": 0,
+            "value": 150,
+            "copy": false
+        },
+        "damageHatePer": {
+            "varType": 0,
+            "value": 150,
+            "copy": false
+        },
+        "releaseAnimation": {
+            "varType": 0,
+            "value": 8,
+            "copy": false
+        },
+        "hitAnimation": {
+            "varType": 0,
+            "value": 9,
+            "copy": false
+        },
+        "releaseEvent": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "hitEvent": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "addStatus": {
+            "varType": 6,
+            "value": [
+                9
+            ],
+            "copy": false
+        },
+        "removeStatus": {
+            "varType": 6,
+            "value": [],
+            "copy": false
+        },
+        "currentCD": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "infoLegend": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "pLabel": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "label": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        }
+    },
+    "id": 1007
+}

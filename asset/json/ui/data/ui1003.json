@@ -1,0 +1,255 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "42770339857_0.6527414758234169",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "商品信息容器",
+                "x": 8,
+                "y": 4,
+                "width": 34,
+                "height": 34,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "",
+                "grid9": "1,1,1,1,0",
+                "pivotType": 0,
+                "children": [
+                    {
+                        "id": "42770531982_0.8596539318190921",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "icon",
+                        "x": 2,
+                        "y": 2,
+                        "width": 32,
+                        "height": 32,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/other/BlueFeather.png",
+                        "grid9": "3,3,3,3,0",
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "42770786136_0.6045516702443219",
+                        "condition": [],
+                        "type": "UIString",
+                        "name": "itemName",
+                        "x": 46,
+                        "y": 11,
+                        "width": 109,
+                        "height": 23,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": false,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "text": "名字",
+                        "fontSize": 14,
+                        "color": "#523731",
+                        "bold": true,
+                        "italic": false,
+                        "smooth": false,
+                        "align": 0,
+                        "valign": 0,
+                        "leading": 0,
+                        "letterSpacing": 0,
+                        "font": "思源黑体",
+                        "wordWrap": true,
+                        "overflow": 0,
+                        "shadowColor": "#000000",
+                        "shadowDx": 1,
+                        "shadowDy": 1,
+                        "stroke": 0,
+                        "strokeColor": "#000000"
+                    },
+                    {
+                        "id": "42772344873_0.9169556854334031",
+                        "condition": [],
+                        "type": "UIString",
+                        "name": "itemPrice",
+                        "x": 142,
+                        "y": 11,
+                        "width": 80,
+                        "height": 21,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": false,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "text": "300",
+                        "fontSize": 14,
+                        "color": "#523731",
+                        "bold": true,
+                        "italic": false,
+                        "smooth": false,
+                        "align": 1,
+                        "valign": 0,
+                        "leading": 0,
+                        "letterSpacing": 0,
+                        "font": "思源黑体",
+                        "wordWrap": true,
+                        "overflow": 0,
+                        "shadowColor": "#000000",
+                        "shadowDx": 1,
+                        "shadowDy": 1,
+                        "stroke": 0,
+                        "strokeColor": "#000000"
+                    },
+                    {
+                        "id": "44536770078_0.05817173480921678",
+                        "condition": [],
+                        "type": "UIString",
+                        "name": "itemNum",
+                        "x": 253,
+                        "y": 11,
+                        "width": 80,
+                        "height": 21,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": false,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "text": "99",
+                        "fontSize": 14,
+                        "color": "#523731",
+                        "bold": true,
+                        "italic": false,
+                        "smooth": false,
+                        "align": 1,
+                        "valign": 0,
+                        "leading": 0,
+                        "letterSpacing": 0,
+                        "font": "思源黑体",
+                        "wordWrap": true,
+                        "overflow": 0,
+                        "shadowColor": "#000000",
+                        "shadowDx": 1,
+                        "shadowDy": 1,
+                        "stroke": 0,
+                        "strokeColor": "#000000"
+                    },
+                    {
+                        "id": "58374972375_0.6489019974233574",
+                        "condition": [],
+                        "type": "UIString",
+                        "name": "ownNum",
+                        "x": 361,
+                        "y": 11,
+                        "width": 80,
+                        "height": 21,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": false,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "text": "99",
+                        "fontSize": 14,
+                        "color": "#523731",
+                        "bold": true,
+                        "italic": false,
+                        "smooth": false,
+                        "align": 1,
+                        "valign": 0,
+                        "leading": 0,
+                        "letterSpacing": 0,
+                        "font": "思源黑体",
+                        "wordWrap": true,
+                        "overflow": 0,
+                        "shadowEnabled": null,
+                        "shadowColor": "#000000",
+                        "shadowDx": 1,
+                        "shadowDy": 1,
+                        "stroke": 0,
+                        "strokeColor": "#000000",
+                        "onChangeFragEvent": null
+                    }
+                ]
+            },
+            {
+                "id": "57202030356_0.19677804452143954",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "分割线",
+                "x": 0,
+                "y": 45,
+                "width": 468,
+                "height": 1,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/backpack/line.png",
+                "grid9": "0,0,0,0,0",
+                "pivotType": 0
+            }
+        ]
+    },
+    "instanceClassName": "",
+    "id": 1003,
+    "hasRootCommand": []
+}

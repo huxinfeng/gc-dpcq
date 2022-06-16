@@ -1,0 +1,137 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "52583161031_0.3169195930666502",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "avatarbg",
+                "x": 0,
+                "y": 0,
+                "width": 74,
+                "height": 108,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/team/avatarNormal.png",
+                "grid9": "0,0,0,0,0",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "52583052674_0.6377474248362618",
+                "condition": [],
+                "type": "UIAvatar",
+                "name": "avatar",
+                "x": 38,
+                "y": 86,
+                "width": 192,
+                "height": 192,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "avatarID": 1,
+                "scaleNumberX": 1,
+                "scaleNumberY": 1,
+                "orientationIndex": 0,
+                "avatarFPS": 12,
+                "playOnce": false,
+                "isPlay": true,
+                "avatarFrame": 1,
+                "actionID": 1,
+                "avatarHue": 0
+            },
+            {
+                "id": "58419647230_0.36345577842807186",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "deadSign",
+                "x": 7,
+                "y": 64,
+                "width": 58,
+                "height": 24,
+                "opacity": 0.82,
+                "rotation": -25,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/battle/ready/statePanel.png",
+                "grid9": "0,0,0,0,0",
+                "pivotType": 0,
+                "children": [
+                    {
+                        "id": "60181819921_0.9183448263671063",
+                        "condition": [],
+                        "type": "UIString",
+                        "name": "文本",
+                        "x": 0,
+                        "y": 0,
+                        "width": 59,
+                        "height": 24,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": false,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "text": "已死亡",
+                        "fontSize": 16,
+                        "color": "#813133",
+                        "bold": false,
+                        "italic": false,
+                        "align": 1,
+                        "valign": 1,
+                        "leading": 0,
+                        "letterSpacing": 0,
+                        "font": "思源黑体",
+                        "wordWrap": true,
+                        "overflow": 0,
+                        "shadowColor": "#000000",
+                        "shadowDx": 1,
+                        "shadowDy": 1,
+                        "stroke": 0,
+                        "strokeColor": "#000000"
+                    }
+                ]
+            }
+        ]
+    },
+    "id": 1004,
+    "instanceClassName": "",
+    "hasRootCommand": []
+}

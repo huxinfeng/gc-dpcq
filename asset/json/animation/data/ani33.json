@@ -1,0 +1,70 @@
+{
+    "totalFrame": 1,
+    "imageSources": [
+        null,
+        {
+            "x": -96,
+            "y": 0,
+            "width": 96,
+            "height": 96,
+            "url": "asset/image/avatar/monster/satan/Satan_release.png"
+        }
+    ],
+    "layers": [
+        {
+            "type": 0,
+            "name": "目标层",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "x": 0,
+                    "y": 0,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "frameinterpolationEnabled": true,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "horizontalReversal": false,
+                    "x": -46,
+                    "y": -48,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 96,
+                    "height": 96,
+                    "imageSource": 1,
+                    "frameinterpolationEnabled": true,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        }
+    ],
+    "isParticle": false,
+    "id": 33,
+    "particleData": null
+}

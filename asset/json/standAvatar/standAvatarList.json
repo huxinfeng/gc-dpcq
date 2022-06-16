@@ -1,0 +1,69 @@
+{
+    "list": {
+        "1": [
+            null,
+            "剑士",
+            "剑士面部",
+            "魔法师",
+            "魔法师面部",
+            "弓箭手",
+            "弓箭手面部",
+            "医师",
+            "医师面部",
+            "村长"
+        ],
+        "2": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "3": [
+            null,
+            null,
+            null
+        ],
+        "12": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    },
+    "type": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "16": "插件"
+    }
+}

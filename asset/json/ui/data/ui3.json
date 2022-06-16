@@ -1,0 +1,617 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "57390090588_0.06715477782664503",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "黑色半透明背景",
+                "x": 0,
+                "y": 0,
+                "width": 1200,
+                "height": 720,
+                "opacity": 0.25,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/other/Black.png",
+                "grid9": "0,0,0,0,0",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "43905564440_0.7184226854687137",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "界面背景",
+                "x": 1019,
+                "y": 0,
+                "width": 181,
+                "height": 720,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/menu/bg.png",
+                "grid9": "0,0,0,0,0",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "57041965013_0.10468733448197987",
+                "condition": [],
+                "type": "UIRoot",
+                "name": "按钮阴影容器",
+                "x": 963,
+                "y": 40,
+                "width": 222,
+                "height": 346,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "enabledLimitView": null,
+                "scrollShowType": 2,
+                "hScrollBar": "asset/image/picture/control/hscroll_bar.png",
+                "hScrollBg": "asset/image/picture/control/hscroll_bg.png",
+                "vScrollBar": "asset/image/picture/control/vscroll_bar.png",
+                "vScrollBg": "asset/image/picture/control/vscroll_bg.png",
+                "scrollWidth": 16,
+                "slowmotionType": 0,
+                "enabledWheel": true,
+                "hScrollValue": 0,
+                "vScrollValue": 0,
+                "children": [
+                    {
+                        "id": "57041979179_0.6856991318928509",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "背包按钮阴影",
+                        "x": 36,
+                        "y": 8,
+                        "width": 184,
+                        "height": 34,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/menu/optionShadow.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "57042895520_0.1568670180624432",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "队伍编成按钮阴影",
+                        "x": 36,
+                        "y": 58,
+                        "width": 184,
+                        "height": 34,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/menu/optionShadow.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "57042947163_0.4113570191080047",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "存档按钮阴影",
+                        "x": 36,
+                        "y": 108,
+                        "width": 184,
+                        "height": 34,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/menu/optionShadow.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "57042969869_0.1032566029667139",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "读档按钮阴影",
+                        "x": 36,
+                        "y": 158,
+                        "width": 184,
+                        "height": 34,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/menu/optionShadow.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "57042978499_0.6353368056682904",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "设置按钮阴影",
+                        "x": 36,
+                        "y": 208,
+                        "width": 184,
+                        "height": 34,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/menu/optionShadow.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "57042988879_0.8815412864483725",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "返回标题按钮阴影",
+                        "x": 36,
+                        "y": 258,
+                        "width": 184,
+                        "height": 34,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/menu/optionShadow.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    },
+                    {
+                        "id": "57042995914_0.7325692136299702",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "返回游戏按钮阴影",
+                        "x": 36,
+                        "y": 308,
+                        "width": 184,
+                        "height": 34,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/menu/optionShadow.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    }
+                ]
+            },
+            {
+                "id": "52592987823_0.22415773856299737",
+                "condition": [],
+                "type": "UIButton",
+                "name": "背包按钮",
+                "x": 978,
+                "y": 41,
+                "width": 201,
+                "height": 36,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [
+                    true
+                ],
+                "isOpen": true,
+                "label": "背包",
+                "image1": "asset/image/picture/ui/menu/optionNormal.png",
+                "grid9img1": "0,0,0,0,0",
+                "image2": "asset/image/picture/ui/menu/optionSelect.png",
+                "grid9img2": "0,0,0,0,0",
+                "image3": "asset/image/picture/ui/menu/optionSelect.png",
+                "grid9img3": "0,0,0,0,0",
+                "fontSize": 16,
+                "color": "#3c3c48",
+                "overColor": "#e5e5e5",
+                "clickColor": "#e5e5e5",
+                "bold": true,
+                "italic": false,
+                "smooth": true,
+                "align": 1,
+                "valign": 1,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "textDx": -25,
+                "textDy": 0,
+                "textStroke": 0,
+                "textStrokeColor": "#000000"
+            },
+            {
+                "id": "52582798236_0.09340147618537853",
+                "condition": [],
+                "type": "UIButton",
+                "name": "队伍编成按钮",
+                "x": 978,
+                "y": 91,
+                "width": 201,
+                "height": 36,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [
+                    true
+                ],
+                "isOpen": true,
+                "label": "队伍编成",
+                "image1": "asset/image/picture/ui/menu/optionNormal.png",
+                "grid9img1": "0,0,0,0,0",
+                "image2": "asset/image/picture/ui/menu/optionSelect.png",
+                "grid9img2": "0,0,0,0,0",
+                "image3": "asset/image/picture/ui/menu/optionSelect.png",
+                "grid9img3": "0,0,0,0,0",
+                "fontSize": 16,
+                "color": "#3c3c48",
+                "overColor": "#e5e5e5",
+                "clickColor": "#e5e5e5",
+                "bold": true,
+                "italic": false,
+                "smooth": true,
+                "align": 1,
+                "valign": 1,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "textDx": -6,
+                "textDy": 0,
+                "textStroke": 0,
+                "textStrokeColor": "#000000"
+            },
+            {
+                "id": "42609130889_0.4532877663497612",
+                "condition": [],
+                "type": "UIButton",
+                "name": "存档按钮",
+                "x": 978,
+                "y": 141,
+                "width": 201,
+                "height": 36,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [
+                    true
+                ],
+                "isOpen": true,
+                "label": "存档",
+                "image1": "asset/image/picture/ui/menu/optionNormal.png",
+                "grid9img1": "0,0,0,0,0",
+                "image2": "asset/image/picture/ui/menu/optionSelect.png",
+                "grid9img2": "0,0,0,0,0",
+                "image3": "asset/image/picture/ui/menu/optionSelect.png",
+                "grid9img3": "0,0,0,0,0",
+                "fontSize": 16,
+                "color": "#3c3c48",
+                "overColor": "#e5e5e5",
+                "clickColor": "#e5e5e5",
+                "bold": true,
+                "italic": false,
+                "smooth": true,
+                "align": 1,
+                "valign": 1,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "textDx": -23,
+                "textDy": 0,
+                "textStroke": 0,
+                "textStrokeColor": "#000000"
+            },
+            {
+                "id": "42761620603_0.009179395002106627",
+                "condition": [],
+                "type": "UIButton",
+                "name": "读档按钮",
+                "x": 978,
+                "y": 191,
+                "width": 201,
+                "height": 36,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [
+                    true
+                ],
+                "isOpen": true,
+                "label": "读档",
+                "image1": "asset/image/picture/ui/menu/optionNormal.png",
+                "grid9img1": "0,0,0,0,0",
+                "image2": "asset/image/picture/ui/menu/optionSelect.png",
+                "grid9img2": "0,0,0,0,0",
+                "image3": "asset/image/picture/ui/menu/optionSelect.png",
+                "grid9img3": "0,0,0,0,0",
+                "fontSize": 16,
+                "color": "#3c3c48",
+                "overColor": "#e5e5e5",
+                "clickColor": "#e5e5e5",
+                "bold": true,
+                "italic": false,
+                "smooth": true,
+                "align": 1,
+                "valign": 1,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "textDx": -22,
+                "textDy": 0,
+                "textStroke": 0,
+                "textStrokeColor": "#000000"
+            },
+            {
+                "id": "42774796194_0.49272019559576474",
+                "condition": [],
+                "type": "UIButton",
+                "name": "设置按钮",
+                "x": 978,
+                "y": 241,
+                "width": 201,
+                "height": 36,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [
+                    true
+                ],
+                "isOpen": true,
+                "label": "设置",
+                "image1": "asset/image/picture/ui/menu/optionNormal.png",
+                "grid9img1": "0,0,0,0,0",
+                "image2": "asset/image/picture/ui/menu/optionSelect.png",
+                "grid9img2": "0,0,0,0,0",
+                "image3": "asset/image/picture/ui/menu/optionSelect.png",
+                "grid9img3": "0,0,0,0,0",
+                "fontSize": 16,
+                "color": "#3c3c48",
+                "overColor": "#e5e5e5",
+                "clickColor": "#e5e5e5",
+                "bold": true,
+                "italic": false,
+                "smooth": true,
+                "align": 1,
+                "valign": 1,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "textDx": -22,
+                "textDy": 0,
+                "textStroke": 0,
+                "textStrokeColor": "#000000"
+            },
+            {
+                "id": "42609181188_0.3217024940842472",
+                "condition": [],
+                "type": "UIButton",
+                "name": "返回标题按钮",
+                "x": 978,
+                "y": 291,
+                "width": 201,
+                "height": 36,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [
+                    true
+                ],
+                "isOpen": true,
+                "label": "返回标题",
+                "image1": "asset/image/picture/ui/menu/optionNormal.png",
+                "grid9img1": "0,0,0,0,0",
+                "image2": "asset/image/picture/ui/menu/optionSelect.png",
+                "grid9img2": "0,0,0,0,0",
+                "image3": "asset/image/picture/ui/menu/optionSelect.png",
+                "grid9img3": "0,0,0,0,0",
+                "fontSize": 16,
+                "color": "#3c3c48",
+                "overColor": "#e5e5e5",
+                "clickColor": "#e5e5e5",
+                "bold": true,
+                "italic": false,
+                "smooth": true,
+                "align": 1,
+                "valign": 1,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "textDx": -4,
+                "textDy": 0,
+                "textStroke": 0,
+                "textStrokeColor": "#000000"
+            },
+            {
+                "id": "42609202205_0.12051873128821122",
+                "condition": [],
+                "type": "UIButton",
+                "name": "返回游戏按钮",
+                "x": 978,
+                "y": 341,
+                "width": 201,
+                "height": 36,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [
+                    true
+                ],
+                "isOpen": true,
+                "label": "返回游戏",
+                "image1": "asset/image/picture/ui/menu/optionNormal.png",
+                "grid9img1": "0,0,0,0,0",
+                "image2": "asset/image/picture/ui/menu/optionSelect.png",
+                "grid9img2": "0,0,0,0,0",
+                "image3": "asset/image/picture/ui/menu/optionSelect.png",
+                "grid9img3": "0,0,0,0,0",
+                "fontSize": 16,
+                "color": "#3c3c48",
+                "overColor": "#e5e5e5",
+                "clickColor": "#e5e5e5",
+                "bold": true,
+                "italic": false,
+                "smooth": true,
+                "align": 1,
+                "valign": 1,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "textDx": -4,
+                "textDy": 0,
+                "textStroke": 0,
+                "textStrokeColor": "#000000"
+            }
+        ]
+    },
+    "id": 3,
+    "instanceClassName": "",
+    "hasRootCommand": []
+}

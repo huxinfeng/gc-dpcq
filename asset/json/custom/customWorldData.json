@@ -1,0 +1,659 @@
+{
+    "attrs": {
+        "screenMode": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "selectSE": {
+            "varType": 1,
+            "value": "asset/audio/se/menu/Down.mp3,1,1",
+            "copy": false,
+            "volume": "1",
+            "pitch": "1"
+        },
+        "sureSE": {
+            "varType": 1,
+            "value": "asset/audio/se/menu/Confirm_Whether.mp3,1,1.2",
+            "copy": false,
+            "volume": "1",
+            "pitch": "1.2"
+        },
+        "cancelSE": {
+            "varType": 1,
+            "value": "asset/audio/se/menu/Return_Left.mp3,1,1",
+            "copy": false,
+            "volume": "1",
+            "pitch": "1"
+        },
+        "disalbeSE": {
+            "varType": 1,
+            "value": "asset/audio/se/menu/Disable_1.mp3,0.83,1",
+            "copy": false,
+            "volume": "0.83",
+            "pitch": "1"
+        },
+        "dialogSE": {
+            "varType": 1,
+            "value": "asset/audio/se/menu/Down.mp3,1,0.5",
+            "copy": false,
+            "volume": "1",
+            "pitch": "0.5"
+        },
+        "sceneBGMGradientTime": {
+            "varType": 0,
+            "value": 0.5,
+            "copy": false
+        },
+        "sceneBGSGradientTime": {
+            "varType": 0,
+            "value": 0.5,
+            "copy": false
+        },
+        "moveToGridCenter": {
+            "varType": 2,
+            "value": false,
+            "copy": false
+        },
+        "moveDir4": {
+            "varType": 2,
+            "value": false,
+            "copy": false
+        },
+        "jumpTimeCost": {
+            "varType": 0,
+            "value": 0.5,
+            "copy": false
+        },
+        "jumpHeight": {
+            "varType": 0,
+            "value": 150,
+            "copy": false
+        },
+        "menuEnabled": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "sceneObjectCollisionSize": {
+            "varType": 0,
+            "value": 32,
+            "copy": false
+        },
+        "sceneObjectMoveStartAct": {
+            "varType": 0,
+            "value": 2,
+            "copy": false
+        },
+        "useSceneObjectMoveStartAct2": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "sceneObjectMoveStartAct2": {
+            "varType": 0,
+            "value": 2,
+            "copy": false
+        },
+        "sceneObjectMoveStartAct2Speed": {
+            "varType": 0,
+            "value": 400,
+            "copy": false
+        },
+        "selectSceneObjectEffect": {
+            "varType": 0,
+            "value": 1001,
+            "copy": false
+        },
+        "saveFileMax": {
+            "varType": 0,
+            "value": 10,
+            "copy": false
+        },
+        "playCtrlEnabled": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "uiCompFocusAnimation": {
+            "varType": 0,
+            "value": 1002,
+            "copy": false
+        },
+        "DEBUG": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "gridObsDebug": {
+            "varType": 2,
+            "value": false,
+            "copy": false
+        },
+        "rectObsDebug": {
+            "varType": 2,
+            "value": false,
+            "copy": false
+        },
+        "游戏音乐过渡": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "游戏角色运动规则": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "游戏交互效果": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "其他": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "对应音效": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "dialogSEEnabled": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "dragSceneObjectDebug": {
+            "varType": 2,
+            "value": false,
+            "copy": false
+        },
+        "zoomCameraDebug": {
+            "varType": 2,
+            "value": false,
+            "copy": false
+        },
+        "focusEnabled": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "hotKeyListEnabled": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "equipSE": {
+            "varType": 1,
+            "value": "asset/audio/se/menu/Install_1.mp3,1,1",
+            "copy": false,
+            "volume": "1",
+            "pitch": "1"
+        },
+        "unequipSE": {
+            "varType": 1,
+            "value": "asset/audio/se/menu/Remove_1.mp3,1,1",
+            "copy": false,
+            "volume": "1",
+            "pitch": "1"
+        },
+        "deadPlayerActorLeaveParty": {
+            "varType": 2,
+            "value": false,
+            "copy": false
+        },
+        "menuDisabledAni": {
+            "varType": 0,
+            "value": 1006,
+            "copy": false
+        },
+        "iconDisabledAni": {
+            "varType": 0,
+            "value": 1007,
+            "copy": false
+        },
+        "bak1": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "bak2": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "bak3": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "bak4": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "getItemSE": {
+            "varType": 1,
+            "value": "asset/audio/se/interactive/Get_2.mp3,1,1",
+            "copy": false,
+            "volume": "1",
+            "pitch": "1"
+        },
+        "showVigilanceRange": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "vigilanceColor": {
+            "varType": 1,
+            "value": "#ffff00",
+            "copy": false
+        },
+        "vigilanceAlpha": {
+            "varType": 0,
+            "value": 0.25,
+            "copy": false
+        },
+        "displayBattlerPointBar": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "whenDeadContinue": {
+            "varType": 2,
+            "value": false,
+            "copy": false
+        },
+        "未命名变量": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "keyboards": {
+            "varType": 9,
+            "value": [
+                {
+                    "gameKey": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "keyCode1": {
+                        "varType": 0,
+                        "value": 87,
+                        "copy": false
+                    },
+                    "keyCode2": {
+                        "varType": 0,
+                        "value": 38,
+                        "copy": false
+                    },
+                    "keyCode3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "keyCode4": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    }
+                },
+                {
+                    "gameKey": {
+                        "varType": 0,
+                        "value": 1,
+                        "copy": false
+                    },
+                    "keyCode1": {
+                        "varType": 0,
+                        "value": 83,
+                        "copy": false
+                    },
+                    "keyCode2": {
+                        "varType": 0,
+                        "value": 40,
+                        "copy": false
+                    },
+                    "keyCode3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "keyCode4": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    }
+                },
+                {
+                    "gameKey": {
+                        "varType": 0,
+                        "value": 2,
+                        "copy": false
+                    },
+                    "keyCode1": {
+                        "varType": 0,
+                        "value": 65,
+                        "copy": false
+                    },
+                    "keyCode2": {
+                        "varType": 0,
+                        "value": 37,
+                        "copy": false
+                    },
+                    "keyCode3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "keyCode4": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    }
+                },
+                {
+                    "gameKey": {
+                        "varType": 0,
+                        "value": 3,
+                        "copy": false
+                    },
+                    "keyCode1": {
+                        "varType": 0,
+                        "value": 68,
+                        "copy": false
+                    },
+                    "keyCode2": {
+                        "varType": 0,
+                        "value": 39,
+                        "copy": false
+                    },
+                    "keyCode3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "keyCode4": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    }
+                },
+                {
+                    "gameKey": {
+                        "varType": 0,
+                        "value": 4,
+                        "copy": false
+                    },
+                    "keyCode1": {
+                        "varType": 0,
+                        "value": 75,
+                        "copy": false
+                    },
+                    "keyCode2": {
+                        "varType": 0,
+                        "value": 90,
+                        "copy": false
+                    },
+                    "keyCode3": {
+                        "varType": 0,
+                        "value": 32,
+                        "copy": false
+                    },
+                    "keyCode4": {
+                        "varType": 0,
+                        "value": 13,
+                        "copy": false
+                    }
+                },
+                {
+                    "gameKey": {
+                        "varType": 0,
+                        "value": 5,
+                        "copy": false
+                    },
+                    "keyCode1": {
+                        "varType": 0,
+                        "value": 76,
+                        "copy": false
+                    },
+                    "keyCode2": {
+                        "varType": 0,
+                        "value": 88,
+                        "copy": false
+                    },
+                    "keyCode3": {
+                        "varType": 0,
+                        "value": 27,
+                        "copy": false
+                    },
+                    "keyCode4": {
+                        "varType": 0,
+                        "value": 96,
+                        "copy": false
+                    }
+                },
+                {
+                    "gameKey": {
+                        "varType": 0,
+                        "value": 6,
+                        "copy": false
+                    },
+                    "keyCode1": {
+                        "varType": 0,
+                        "value": 72,
+                        "copy": false
+                    },
+                    "keyCode2": {
+                        "varType": 0,
+                        "value": 67,
+                        "copy": false
+                    },
+                    "keyCode3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "keyCode4": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    }
+                },
+                {
+                    "gameKey": {
+                        "varType": 0,
+                        "value": 7,
+                        "copy": false
+                    },
+                    "keyCode1": {
+                        "varType": 0,
+                        "value": 74,
+                        "copy": false
+                    },
+                    "keyCode2": {
+                        "varType": 0,
+                        "value": 86,
+                        "copy": false
+                    },
+                    "keyCode3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "keyCode4": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    }
+                },
+                {
+                    "gameKey": {
+                        "varType": 0,
+                        "value": 9,
+                        "copy": false
+                    },
+                    "keyCode1": {
+                        "varType": 0,
+                        "value": 27,
+                        "copy": false
+                    },
+                    "keyCode2": {
+                        "varType": 0,
+                        "value": 96,
+                        "copy": false
+                    },
+                    "keyCode3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "keyCode4": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    }
+                },
+                {
+                    "gameKey": {
+                        "varType": 0,
+                        "value": 8,
+                        "copy": false
+                    },
+                    "keyCode1": {
+                        "varType": 0,
+                        "value": 13,
+                        "copy": false
+                    },
+                    "keyCode2": {
+                        "varType": 0,
+                        "value": 32,
+                        "copy": false
+                    },
+                    "keyCode3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "keyCode4": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    }
+                },
+                {
+                    "gameKey": {
+                        "varType": 0,
+                        "value": 10,
+                        "copy": false
+                    },
+                    "keyCode1": {
+                        "varType": 0,
+                        "value": 81,
+                        "copy": false
+                    },
+                    "keyCode2": {
+                        "varType": 0,
+                        "value": 79,
+                        "copy": false
+                    },
+                    "keyCode3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "keyCode4": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    }
+                },
+                {
+                    "gameKey": {
+                        "varType": 0,
+                        "value": 11,
+                        "copy": false
+                    },
+                    "keyCode1": {
+                        "varType": 0,
+                        "value": 82,
+                        "copy": false
+                    },
+                    "keyCode2": {
+                        "varType": 0,
+                        "value": 85,
+                        "copy": false
+                    },
+                    "keyCode3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "keyCode4": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    }
+                },
+                {
+                    "gameKey": {
+                        "varType": 0,
+                        "value": 12,
+                        "copy": false
+                    },
+                    "keyCode1": {
+                        "varType": 0,
+                        "value": 69,
+                        "copy": false
+                    },
+                    "keyCode2": {
+                        "varType": 0,
+                        "value": 80,
+                        "copy": false
+                    },
+                    "keyCode3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "keyCode4": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    }
+                },
+                {
+                    "gameKey": {
+                        "varType": 0,
+                        "value": 13,
+                        "copy": false
+                    },
+                    "keyCode1": {
+                        "varType": 0,
+                        "value": 84,
+                        "copy": false
+                    },
+                    "keyCode2": {
+                        "varType": 0,
+                        "value": 73,
+                        "copy": false
+                    },
+                    "keyCode3": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    },
+                    "keyCode4": {
+                        "varType": 0,
+                        "value": 0,
+                        "copy": false
+                    }
+                }
+            ],
+            "copy": false
+        }
+    }
+}

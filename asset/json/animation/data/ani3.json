@@ -1,0 +1,296 @@
+{
+    "totalFrame": 14,
+    "imageSources": [
+        null,
+        {
+            "x": 0,
+            "y": 0,
+            "width": 96,
+            "height": 96,
+            "url": "asset/image/animation/skill/sword_2_hit/1.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 96,
+            "height": 96,
+            "url": "asset/image/animation/skill/sword_2_hit/2.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 96,
+            "height": 96,
+            "url": "asset/image/animation/skill/sword_2_hit/3.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 96,
+            "height": 96,
+            "url": "asset/image/animation/skill/sword_2_hit/4.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 96,
+            "height": 96,
+            "url": "asset/image/animation/skill/sword_2_hit/5.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 96,
+            "height": 96,
+            "url": "asset/image/animation/skill/sword_2_hit/6.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 96,
+            "height": 96,
+            "url": "asset/image/animation/skill/sword_2_hit/7.png"
+        }
+    ],
+    "layers": [
+        {
+            "type": 0,
+            "name": "目标层",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "x": 0,
+                    "y": 0,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": 0,
+                                    "g": 0,
+                                    "b": 0,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {},
+                                    "enable": true
+                                }
+                            ]
+                        }
+                    ],
+                    "frameinterpolationEnabled": true
+                },
+                {
+                    "index": 2,
+                    "x": 0,
+                    "y": 0,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": 1,
+                                    "g": 1,
+                                    "b": 1,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {}
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "index": 4,
+                    "x": 0,
+                    "y": 0,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": 0,
+                                    "g": 0,
+                                    "b": 0,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {}
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "index": 6,
+                    "x": 0,
+                    "y": 0,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": 1,
+                                    "g": 1,
+                                    "b": 1,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {}
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "index": 8,
+                    "x": 0,
+                    "y": 0,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": 0,
+                                    "g": 0,
+                                    "b": 0,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {}
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": true,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "horizontalReversal": false,
+                    "x": -48,
+                    "y": -79,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 98,
+                    "height": 98,
+                    "imageSource": 1,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ],
+                    "frameinterpolationEnabled": true
+                },
+                {
+                    "index": 4,
+                    "horizontalReversal": false,
+                    "x": -48,
+                    "y": -79,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 98,
+                    "height": 98,
+                    "imageSource": 3,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 13,
+                    "horizontalReversal": false,
+                    "x": -48,
+                    "y": -79,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 98,
+                    "height": 98,
+                    "imageSource": 7,
+                    "signalId": 1,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 3,
+            "name": "音效层",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "frameinterpolationEnabled": true
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false,
+            "audioInfo": {
+                "url": "asset/audio/se/battle/Skill_7.mp3,1,1",
+                "volume": 1,
+                "pitch": 1
+            }
+        }
+    ],
+    "isParticle": false,
+    "id": 3,
+    "particleData": null
+}

@@ -1,0 +1,29 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "42603276658_0.1432355830860872",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "图片",
+                "x": 0,
+                "y": 0,
+                "width": 1200,
+                "height": 720,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/other/Black.png",
+                "grid9": "3,3,3,3,0",
+                "pivotType": 0
+            }
+        ]
+    },
+    "id": 2003,
+    "instanceClassName": ""
+}

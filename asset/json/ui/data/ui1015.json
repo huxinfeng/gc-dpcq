@@ -1,0 +1,70 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "63306743578_0.752494097641734",
+                "condition": [],
+                "type": "UIRoot",
+                "name": "按钮容器",
+                "x": 0,
+                "y": 0,
+                "width": 219,
+                "height": 58,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "scrollShowType": 2,
+                "hScrollBar": "asset/image/picture/control/hscroll_bar.png",
+                "hScrollBg": "asset/image/picture/control/hscroll_bg.png",
+                "vScrollBar": "asset/image/picture/control/vscroll_bar.png",
+                "vScrollBg": "asset/image/picture/control/vscroll_bg.png",
+                "scrollWidth": 16,
+                "slowmotionType": 0,
+                "enabledWheel": true,
+                "hScrollValue": 0,
+                "vScrollValue": 0,
+                "children": [
+                    {
+                        "id": "63306758001_0.2750364239911143",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "target",
+                        "x": 0,
+                        "y": 0,
+                        "width": 201,
+                        "height": 36,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/menu/optionSelect.png",
+                        "grid9": "0,66,0,56,1",
+                        "pivotType": 0
+                    }
+                ]
+            }
+        ]
+    },
+    "id": 1015,
+    "instanceClassName": "",
+    "hasRootCommand": []
+}

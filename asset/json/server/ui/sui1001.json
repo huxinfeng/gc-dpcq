@@ -1,0 +1,278 @@
+{
+    "42588501117_0.6865404492673746": {
+        "condition": [],
+        "commands": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "42588513378_0.9809030207336347": {
+        "condition": [],
+        "commands": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "42588584956_0.29244167155461853": {
+        "condition": [],
+        "commands": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "42588630325_0.4661444085330131": {
+        "condition": [],
+        "commands": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "42588741257_0.11784215944186172": {
+        "condition": [],
+        "commands": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "42588917265_0.8154324523113876": {
+        "condition": [],
+        "commands": [
+            [
+                [
+                    18,
+                    "--------------------------------------------------------------------------\n脚本与事件交互，以传参形式调用事件\n--------------------------------------------------------------------------\n此处在脚本中绑定了组件的提交信息（inputMessage）\n在调用该事件时会根据提交信息删除对应的档案\n由于系统指令：对话、选项事件也会提交信息，所以在这之前先记录好提交的信息。",
+                    {
+                        "___cmdID": "51692566390_0.8789482110121689"
+                    }
+                ],
+                [
+                    80005,
+                    {
+                        "74577032484_0.13493609495640202": "asset/audio/se/menu/Down.mp3,1,1",
+                        "74578579319_0.15291120828407134": 1,
+                        "74587606222_0.5579985331498136": false,
+                        "74587987674_0.5977703161602927": false
+                    },
+                    "76378771009_0.11730468356729284"
+                ],
+                [
+                    20,
+                    "记录档案ID",
+                    "// 使用项目层临时全局数据记录当前的第一个提交值\r\n// 该提交值来自档案列表中设置绑定的档案ID\r\nGlobalTempData.playerInputSaveID = trigger.inputMessage[0];",
+                    "GlobalTempData.playerInputSaveID = trigger.inputMessage[0];\n",
+                    {
+                        "___cmdID": "51692566391_0.8098180879226564"
+                    }
+                ],
+                [
+                    18,
+                    "由于对话、选项事件也会提交信息，所以在这之前先记录提交的信息。",
+                    {
+                        "___cmdID": "51692566391_0.4374096334570352"
+                    }
+                ],
+                [
+                    11,
+                    13,
+                    null,
+                    "",
+                    5,
+                    -3,
+                    "<span style='color:#FfFffF'>是否删除第[@p0]个档案？[.s] </span>",
+                    null,
+                    1,
+                    {
+                        "___cmdID": "51692566391_0.8580104685623668"
+                    }
+                ],
+                [
+                    3,
+                    0,
+                    -1,
+                    1,
+                    {
+                        "___cmdID": "51692566391_0.18673284145440205"
+                    }
+                ],
+                [
+                    4,
+                    "是",
+                    -1,
+                    -1,
+                    {
+                        "___cmdID": "51692566391_0.7250990037778662"
+                    }
+                ],
+                [
+                    20,
+                    "删除档案并刷新界面",
+                    "// 删除档案\r\nvar saveID = GlobalTempData.playerInputSaveID;\r\nSinglePlayerGame.delSaveFile(saveID, Callback.New((success:boolean) => {\r\n    var guiLoad = GameUI.get(2) as GUI_2;\r\n    if (guiLoad && guiLoad.stage) {\r\n        GUI_SaveFileManager.refreshSaveFileItem(guiLoad.list);\r\n        return;\r\n    }\r\n    var guiSave = GameUI.get(5) as GUI_5;\r\n    if (guiSave && guiSave.stage) {\r\n        GUI_SaveFileManager.refreshSaveFileItem(guiSave.list);\r\n        return;\r\n    }\r\n}, this));",
+                    "var saveID = GlobalTempData.playerInputSaveID;\nSinglePlayerGame.delSaveFile(saveID, Callback.New(function (success) {\n    var guiLoad = GameUI.get(2);\n    if (guiLoad && guiLoad.stage) {\n        GUI_SaveFileManager.refreshSaveFileItem(guiLoad.list);\n        return;\n    }\n    var guiSave = GameUI.get(5);\n    if (guiSave && guiSave.stage) {\n        GUI_SaveFileManager.refreshSaveFileItem(guiSave.list);\n        return;\n    }\n}, this));\n",
+                    {
+                        "___cmdID": "51692566391_0.5545376667792716"
+                    }
+                ],
+                [
+                    4,
+                    "否",
+                    -1,
+                    1,
+                    {
+                        "___cmdID": "51692566391_0.9337770768218054"
+                    }
+                ],
+                [
+                    10,
+                    {
+                        "___cmdID": "51692566391_0.6788844698925647"
+                    }
+                ]
+            ],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "42591111201_0.23391639140523712": {
+        "condition": [],
+        "commands": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "43901885799_0.4938691196354532": {
+        "condition": [],
+        "commands": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "57110911805_0.7123898404130291": {
+        "condition": [],
+        "commands": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "57111013888_0.06731127108978385": {
+        "condition": [],
+        "commands": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "root": {
+        "commands": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    }
+}

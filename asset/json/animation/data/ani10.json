@@ -1,0 +1,667 @@
+{
+    "totalFrame": 17,
+    "imageSources": [
+        null,
+        {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192,
+            "url": "asset/image/animation/skill/land_1/B1.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192,
+            "url": "asset/image/animation/skill/land_1/B2.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192,
+            "url": "asset/image/animation/skill/land_1/B3.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192,
+            "url": "asset/image/animation/skill/land_1/B4.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192,
+            "url": "asset/image/animation/skill/land_1/B5.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192,
+            "url": "asset/image/animation/skill/land_1/B6.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192,
+            "url": "asset/image/animation/skill/land_1/B7.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192,
+            "url": "asset/image/animation/skill/land_1/B8.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192,
+            "url": "asset/image/animation/skill/land_1/B9.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192,
+            "url": "asset/image/animation/skill/land_1/A1.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192,
+            "url": "asset/image/animation/skill/land_1/A2.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192,
+            "url": "asset/image/animation/skill/land_1/A3.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192,
+            "url": "asset/image/animation/skill/land_1/A4.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192,
+            "url": "asset/image/animation/skill/land_1/A5.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192,
+            "url": "asset/image/animation/skill/land_1/A6.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192,
+            "url": "asset/image/animation/skill/land_1/A7.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192,
+            "url": "asset/image/animation/skill/land_1/A8.png"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192,
+            "url": "asset/image/animation/skill/land_1/A9.png"
+        }
+    ],
+    "layers": [
+        {
+            "type": 1,
+            "name": "layer",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "horizontalReversal": false,
+                    "x": -96,
+                    "y": -117,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 192,
+                    "height": 192,
+                    "imageSource": 10,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": 0,
+                                    "g": 0,
+                                    "b": 0,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {},
+                                    "enable": true
+                                }
+                            ]
+                        }
+                    ],
+                    "frameinterpolationEnabled": true
+                },
+                {
+                    "index": 1,
+                    "horizontalReversal": false,
+                    "x": -96,
+                    "y": -117,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 192,
+                    "height": 192,
+                    "imageSource": 10,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": 0,
+                                    "g": 0,
+                                    "b": 0,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {}
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "index": 2,
+                    "horizontalReversal": false,
+                    "x": -96,
+                    "y": -117,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 192,
+                    "height": 192,
+                    "imageSource": 11,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": 1,
+                                    "g": 0,
+                                    "b": 0,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {}
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "index": 3,
+                    "horizontalReversal": false,
+                    "x": -96,
+                    "y": -117,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 192,
+                    "height": 192,
+                    "imageSource": 11,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": 1,
+                                    "g": 1,
+                                    "b": 1,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {}
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "index": 6,
+                    "horizontalReversal": false,
+                    "x": -96,
+                    "y": -117,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 192,
+                    "height": 192,
+                    "imageSource": 13,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": 0,
+                                    "g": 0,
+                                    "b": 0,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {}
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "index": 16,
+                    "horizontalReversal": false,
+                    "x": -96,
+                    "y": -117,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 192,
+                    "height": 192,
+                    "imageSource": 18,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": 0,
+                                    "g": 0,
+                                    "b": 0,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {}
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer1",
+            "children": [],
+            "frames": [
+                {
+                    "index": 2,
+                    "horizontalReversal": false,
+                    "x": -96,
+                    "y": -116,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 192,
+                    "height": 192,
+                    "imageSource": 11,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 3,
+                    "horizontalReversal": false,
+                    "x": -96,
+                    "y": -116,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 192,
+                    "height": 192,
+                    "imageSource": 12,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer2",
+            "children": [],
+            "frames": [
+                {
+                    "index": 1,
+                    "horizontalReversal": false,
+                    "x": -141,
+                    "y": -170,
+                    "rotation": 0,
+                    "alpha": 0.11,
+                    "width": 275,
+                    "height": 275,
+                    "imageSource": 10,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": -1,
+                                    "g": -1,
+                                    "b": -1,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {}
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "index": 4,
+                    "horizontalReversal": false,
+                    "x": -139,
+                    "y": -170,
+                    "rotation": 0,
+                    "alpha": 0.23,
+                    "width": 274,
+                    "height": 274,
+                    "imageSource": 12,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": -1,
+                                    "g": -1,
+                                    "b": -1,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {}
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "index": 16,
+                    "horizontalReversal": false,
+                    "x": -139,
+                    "y": -170,
+                    "rotation": 0,
+                    "alpha": 0.11,
+                    "width": 274,
+                    "height": 274,
+                    "imageSource": 18,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": -1,
+                                    "g": -1,
+                                    "b": -1,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {}
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer3",
+            "children": [],
+            "frames": [
+                {
+                    "index": 2,
+                    "horizontalReversal": false,
+                    "x": -140,
+                    "y": -168,
+                    "rotation": 0,
+                    "alpha": 0.15,
+                    "width": 274,
+                    "height": 274,
+                    "imageSource": 11,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": 1,
+                                    "g": -1,
+                                    "b": -1,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {}
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "index": 3,
+                    "horizontalReversal": false,
+                    "x": -140,
+                    "y": -168,
+                    "rotation": 0,
+                    "alpha": 0.15,
+                    "width": 274,
+                    "height": 274,
+                    "imageSource": 11,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": [
+                                {
+                                    "id": 1,
+                                    "r": 1,
+                                    "g": 1,
+                                    "b": 1,
+                                    "gray": 0,
+                                    "mr": 1,
+                                    "mg": 1,
+                                    "mb": 1,
+                                    "useTime": false,
+                                    "time": "",
+                                    "____timeInfo": {}
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 0,
+            "name": "目标层",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "x": 0,
+                    "y": -9,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ],
+                    "frameinterpolationEnabled": true
+                },
+                {
+                    "index": 2,
+                    "x": 0,
+                    "y": 3,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 3,
+                    "x": 0,
+                    "y": 0,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 1,
+            "name": "layer4",
+            "children": [],
+            "frames": [
+                {
+                    "index": 1,
+                    "horizontalReversal": false,
+                    "x": -96,
+                    "y": -117,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 192,
+                    "height": 192,
+                    "imageSource": 1,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                },
+                {
+                    "index": 16,
+                    "horizontalReversal": false,
+                    "x": -96,
+                    "y": -117,
+                    "rotation": 0,
+                    "alpha": 1,
+                    "width": 192,
+                    "height": 192,
+                    "imageSource": 9,
+                    "signalId": 0,
+                    "materialData": [
+                        {
+                            "materials": []
+                        }
+                    ]
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false
+        },
+        {
+            "type": 3,
+            "name": "音效层",
+            "children": [],
+            "frames": [
+                {
+                    "index": 0,
+                    "frameinterpolationEnabled": true
+                }
+            ],
+            "isHitEffect": false,
+            "ishide": false,
+            "islock": false,
+            "audioInfo": {
+                "url": "asset/audio/se/battle/Skill_7.mp3,1,0.75",
+                "volume": 1,
+                "pitch": 0.75
+            }
+        }
+    ],
+    "isParticle": false,
+    "id": 10,
+    "particleData": null
+}

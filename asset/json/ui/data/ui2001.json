@@ -1,0 +1,77 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "42285233300_0.010110529082863806",
+                "condition": [],
+                "type": "UISlider",
+                "name": "loadingComp",
+                "x": 1055,
+                "y": 692,
+                "width": 125,
+                "height": 6,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image1": "asset/image/picture/control/slider_bg.png",
+                "bgGrid9": "0,0,0,0,0",
+                "image2": "asset/image/picture/control/slider_block.png",
+                "blockGrid9": "0,0,0,0,0",
+                "image3": "asset/image/picture/control/slider_bgfill.png",
+                "blockFillGrid9": "0,0,0,0,0",
+                "step": 0.01,
+                "min": 0,
+                "max": 100,
+                "value": 50,
+                "transverseMode": true,
+                "blockFillMode": 1,
+                "blockPosMode": 0,
+                "fillStrething": true
+            },
+            {
+                "id": "43899414627_0.9517476473442967",
+                "condition": [],
+                "type": "UIAnimation",
+                "name": "动画",
+                "x": 1120,
+                "y": 688,
+                "width": 192,
+                "height": 192,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "animationID": 1004,
+                "scaleNumberX": 1,
+                "scaleNumberY": 1,
+                "aniFrame": 1,
+                "playFps": 20,
+                "playType": 2,
+                "showHitEffect": true,
+                "silentMode": false
+            }
+        ]
+    },
+    "id": 2001,
+    "instanceClassName": "",
+    "hasRootCommand": []
+}

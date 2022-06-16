@@ -1,0 +1,67 @@
+{
+  "name": "@gamecretaor/template_arpg",
+  "version": "0.986.2",
+  "private": true,
+  "description": "GameCreator 动作角色扮演游戏模板",
+  "main": "index.html",
+  "scripts": {
+    "build": "tsc -b tsconfig.json",
+    "watch": "tsc -b tsconfig.json --watch",
+    "start": "gamecreator .",
+    "run": "run .",
+    "prepublish": "gc_vscode_init && node scripts/init.js && npm run build",
+    "release-web": "npm run build && node scripts/release.js",
+    "release-pc": "npm run release-web && cd release && npm i && npm run make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/gamecreator/gt_arpg.git"
+  },
+  "author": "gamecretaor",
+  "license": "ISC",
+  "window": {
+    "width": 1500,
+    "height": 900,
+    "icon": "icon.png"
+  },
+  "build": {
+    "appId": "cn.com.gamecreator.template.arpg",
+    "nwVersion": "0.39.0",
+    "nwFlavor": "sdk",
+    "packed": false,
+    "targets": [
+      "zip",
+      "nsis7z"
+    ],
+    "excludes": [
+      "node_modules/**/*"
+    ],
+    "strippedProperties": [
+      "build"
+    ],
+    "outputPattern": "ARPG ${VERSION} ${PLATFORM} ${ARCH}",
+    "win": {
+      "productName": "ARPG",
+      "companyName": "gamecreator",
+      "copyright": "copyright",
+      "icon": "./icon/icon48.ico"
+    },
+    "mac": {
+      "displayName": "ARPG",
+      "copyright": "copyright",
+      "icon": "./icon/pd.icns",
+      "plistStrings": {
+        "CFBundleIdentifier": "cn.com.gamecreator.template.arpg",
+        "CFBundleDocumentTypes": []
+      }
+    },
+    "nsis": {
+      "diffUpdaters": true
+    }
+  },
+  "devDependencies": {
+    "@gamecreator/editor": "^0.986.2",
+    "@gamecreator/gc-template-vscode": "^0.0.7",
+    "typescript": "^4.5.2"
+  }
+}

@@ -1,0 +1,72 @@
+{
+    "attrs": {
+        "lvUpAutoGetSkills": {
+            "varType": 9,
+            "value": [
+                {
+                    "lv": {
+                        "varType": 0,
+                        "value": 2,
+                        "copy": false
+                    },
+                    "skill": {
+                        "varType": 0,
+                        "value": 2,
+                        "copy": false
+                    }
+                },
+                {
+                    "lv": {
+                        "varType": 0,
+                        "value": 3,
+                        "copy": false
+                    },
+                    "skill": {
+                        "varType": 0,
+                        "value": 1001,
+                        "copy": false
+                    }
+                },
+                {
+                    "lv": {
+                        "varType": 0,
+                        "value": 4,
+                        "copy": false
+                    },
+                    "skill": {
+                        "varType": 0,
+                        "value": 2001,
+                        "copy": false
+                    }
+                }
+            ],
+            "copy": false
+        },
+        "canWearEquips": {
+            "varType": 6,
+            "value": [
+                1,
+                2,
+                3,
+                4,
+                1001,
+                1002,
+                2001,
+                2002,
+                2003,
+                2004,
+                3001,
+                3002,
+                4001,
+                4002
+            ],
+            "copy": false
+        },
+        "icon": {
+            "varType": 1,
+            "value": "asset/image/picture/icon/occupation/swordmanSign.png",
+            "copy": false
+        }
+    },
+    "id": 1
+}

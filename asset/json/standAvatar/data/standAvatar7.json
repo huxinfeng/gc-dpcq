@@ -1,0 +1,198 @@
+{
+    "picUrls": [
+        "asset/image/picture/face/physician/Normal_body.png",
+        "asset/image/picture/face/physician/Smile_body.png",
+        "asset/image/picture/face/physician/Surprise_body.png",
+        "asset/image/picture/face/physician/Anger_body.png",
+        "asset/image/picture/face/physician/Sad_body.png"
+    ],
+    "oriMode": 1,
+    "autoFlip": true,
+    "refObjs": {},
+    "parts": [
+        {
+            "id": 0,
+            "showOnEditor": true,
+            "mouseEventEnabledInEditor": true
+        },
+        {
+            "id": 8,
+            "x": 12,
+            "y": -265,
+            "scaleX": 1,
+            "scaleY": 1,
+            "rotation": 0,
+            "alpha": 1,
+            "showOnEditor": true,
+            "mouseEventEnabledInEditor": true,
+            "partID": 1,
+            "hue": 0,
+            "blur": 0,
+            "tonal_r": 0,
+            "tonal_g": 0,
+            "tonal_b": 0,
+            "tonal_gray": 0,
+            "tonal_mr": 1,
+            "tonal_mg": 1,
+            "tonal_mb": 1
+        }
+    ],
+    "actionListArr": [
+        {
+            "id": 1,
+            "frameImageInfo": [
+                [
+                    {
+                        "picUrlIndex": 0,
+                        "rect": [
+                            0,
+                            0,
+                            1000,
+                            1400
+                        ],
+                        "x": -250,
+                        "y": -420,
+                        "width": 500,
+                        "height": 700,
+                        "rotation": 0,
+                        "alpha": 1,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "id": 2,
+            "frameImageInfo": [
+                [
+                    {
+                        "picUrlIndex": 1,
+                        "rect": [
+                            0,
+                            0,
+                            1000,
+                            1400
+                        ],
+                        "x": -250,
+                        "y": -420,
+                        "width": 500,
+                        "height": 700,
+                        "rotation": 0,
+                        "alpha": 1,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "id": 3,
+            "frameImageInfo": [
+                [
+                    {
+                        "picUrlIndex": 2,
+                        "rect": [
+                            0,
+                            0,
+                            1000,
+                            1400
+                        ],
+                        "x": -250,
+                        "y": -420,
+                        "width": 500,
+                        "height": 700,
+                        "rotation": 0,
+                        "alpha": 1,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "id": 4,
+            "frameImageInfo": [
+                [
+                    {
+                        "picUrlIndex": 3,
+                        "rect": [
+                            0,
+                            0,
+                            1000,
+                            1400
+                        ],
+                        "x": -250,
+                        "y": -420,
+                        "width": 500,
+                        "height": 700,
+                        "rotation": 0,
+                        "alpha": 1,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "id": 5,
+            "frameImageInfo": [
+                [
+                    {
+                        "picUrlIndex": 4,
+                        "rect": [
+                            0,
+                            0,
+                            1000,
+                            1400
+                        ],
+                        "x": -250,
+                        "y": -420,
+                        "width": 500,
+                        "height": 700,
+                        "rotation": 0,
+                        "alpha": 1,
+                        "hue": 0,
+                        "blur": 0,
+                        "tonal_r": 0,
+                        "tonal_g": 0,
+                        "tonal_b": 0,
+                        "tonal_gray": 0,
+                        "tonal_mr": 1,
+                        "tonal_mg": 1,
+                        "tonal_mb": 1
+                    }
+                ]
+            ]
+        }
+    ],
+    "id": 7
+}

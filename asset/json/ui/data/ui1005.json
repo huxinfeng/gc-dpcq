@@ -1,0 +1,65 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "52583646072_0.8877149946093588",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "装备图标背景",
+                "x": 0,
+                "y": 0,
+                "width": 54,
+                "height": 54,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": false,
+                "image": "asset/image/picture/ui/team/equipNormal.png",
+                "grid9": "0,0,0,0,0",
+                "flip": null,
+                "pivotType": 0,
+                "children": [
+                    {
+                        "id": "52583685591_0.38586833036710777",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "icon",
+                        "x": 10,
+                        "y": 10,
+                        "width": 34,
+                        "height": 34,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/icon/equip/Sword_4.png",
+                        "grid9": "0,0,0,0,0",
+                        "flip": null,
+                        "pivotType": 0
+                    }
+                ]
+            }
+        ]
+    },
+    "id": 1005,
+    "instanceClassName": "",
+    "hasRootCommand": []
+}

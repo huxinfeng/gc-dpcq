@@ -1,0 +1,101 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "52669989326_0.6545004465044448",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "携带道具图标背景",
+                "x": 0,
+                "y": 0,
+                "width": 54,
+                "height": 54,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/team/equipNormal.png",
+                "grid9": "0,0,0,0,0",
+                "flip": null,
+                "pivotType": 0,
+                "children": [
+                    {
+                        "id": "55936551049_0.35274320205365206",
+                        "condition": [],
+                        "type": "UIRoot",
+                        "name": "携带道具图标容器",
+                        "x": 10,
+                        "y": 10,
+                        "width": 34,
+                        "height": 34,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "enabledLimitView": null,
+                        "scrollShowType": 2,
+                        "hScrollBar": "asset/image/picture/control/hscroll_bar.png",
+                        "hScrollBg": "asset/image/picture/control/hscroll_bg.png",
+                        "vScrollBar": "asset/image/picture/control/vscroll_bar.png",
+                        "vScrollBg": "asset/image/picture/control/vscroll_bg.png",
+                        "scrollWidth": 16,
+                        "slowmotionType": 0,
+                        "enabledWheel": true,
+                        "hScrollValue": 0,
+                        "vScrollValue": 0,
+                        "children": [
+                            {
+                                "id": "52669989327_0.23308460408507914",
+                                "condition": [],
+                                "type": "UIBitmap",
+                                "name": "icon",
+                                "x": 0,
+                                "y": 0,
+                                "width": 34,
+                                "height": 34,
+                                "opacity": 1,
+                                "rotation": 0,
+                                "show": true,
+                                "mouseEventEnabledData": true,
+                                "materialData": [
+                                    {
+                                        "materials": []
+                                    }
+                                ],
+                                "mouseEventEnabledInEditor": true,
+                                "showOnEditor": true,
+                                "hasCommand": [],
+                                "isOpen": true,
+                                "image": "asset/image/picture/icon/item/Medicine_1.png",
+                                "grid9": "0,0,0,0,0",
+                                "flip": null,
+                                "pivotType": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "id": 1008,
+    "instanceClassName": "",
+    "hasRootCommand": []
+}

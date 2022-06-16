@@ -1,0 +1,96 @@
+{
+    "list": {
+        "1": [
+            null,
+            "睡眠",
+            "振奋",
+            "恢复",
+            "晕厥",
+            "中毒",
+            "狂暴",
+            "点燃",
+            "减速",
+            "冰结减速",
+            "武器附魔：振奋",
+            "武器附魔：晕厥",
+            "饰品附魔：恢复",
+            "防护",
+            "",
+            ""
+        ]
+    },
+    "type": {},
+    "typeTreeNode": {
+        "isDirectory": true,
+        "children": [
+            {
+                "id": 1,
+                "name": "睡眠",
+                "children": []
+            },
+            {
+                "id": 2,
+                "name": "振奋",
+                "children": []
+            },
+            {
+                "id": 3,
+                "name": "恢复",
+                "children": []
+            },
+            {
+                "id": 4,
+                "name": "晕厥",
+                "children": []
+            },
+            {
+                "id": 5,
+                "name": "中毒",
+                "children": []
+            },
+            {
+                "id": 6,
+                "name": "狂暴",
+                "children": []
+            },
+            {
+                "id": 7,
+                "name": "点燃",
+                "children": []
+            },
+            {
+                "id": 8,
+                "name": "减速",
+                "children": []
+            },
+            {
+                "id": 9,
+                "name": "冰结减速",
+                "children": []
+            },
+            {
+                "id": 10,
+                "name": "武器附魔：振奋",
+                "children": []
+            },
+            {
+                "id": 11,
+                "name": "武器附魔：晕厥",
+                "children": []
+            },
+            {
+                "id": 12,
+                "name": "饰品附魔：恢复",
+                "children": []
+            },
+            {
+                "id": 13,
+                "name": "防护",
+                "children": []
+            }
+        ],
+        "isOpen": true,
+        "name": "状态"
+    },
+    "dataShowMode": 0
+}

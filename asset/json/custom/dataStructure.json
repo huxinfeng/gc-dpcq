@@ -1,0 +1,38 @@
+{
+    "list": {
+        "1": [
+            null,
+            "preloadAsset",
+            "packageItem",
+            "keys",
+            "compName",
+            "dropItem",
+            "dropEquip",
+            "classValidity",
+            "levelUpLearnSkill",
+            "inPartyActor",
+            "",
+            "battlerHate",
+            "shopItem",
+            "equipRand",
+            "gameKeyboard"
+        ],
+        "2": [
+            null,
+            ""
+        ],
+        "3": [
+            null
+        ],
+        "16": [
+            null,
+            ""
+        ]
+    },
+    "type": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "16": "插件"
+    }
+}

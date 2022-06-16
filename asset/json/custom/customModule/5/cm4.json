@@ -1,0 +1,97 @@
+{
+    "attrs": {
+        "icon": {
+            "varType": 1,
+            "value": "asset/image/picture/icon/item/Medicine_4.png",
+            "copy": false
+        },
+        "intro": {
+            "varType": 1,
+            "value": "复活我方队友并恢复50点生命值！",
+            "copy": false
+        },
+        "sell": {
+            "varType": 0,
+            "value": 50,
+            "copy": false
+        },
+        "isUse": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "sellEnabled": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "isConsumables": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "callEvent": {
+            "varType": 1,
+            "value": "\u000559451361813_0.7717458884514548\u0005[]",
+            "copy": false
+        },
+        "se": {
+            "varType": 1,
+            "value": "asset/audio/se/item/Drink_3.mp3,1,1",
+            "copy": false,
+            "volume": "1",
+            "pitch": "1"
+        },
+        "useType": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "isSingleTarget": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "applyDeadBattler": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "releaseAnimation": {
+            "varType": 0,
+            "value": 20,
+            "copy": false
+        },
+        "recoveryHP": {
+            "varType": 0,
+            "value": 50,
+            "copy": false
+        },
+        "recoverySP": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "addStatus": {
+            "varType": 6,
+            "value": [],
+            "copy": false
+        },
+        "removeStatus": {
+            "varType": 6,
+            "value": [],
+            "copy": false
+        },
+        "描述": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "未命名变量": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        }
+    },
+    "id": 4
+}

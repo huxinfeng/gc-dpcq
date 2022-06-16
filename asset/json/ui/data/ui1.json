@@ -1,0 +1,506 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "57462635210_0.5487216569745066",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "主题背景",
+                "x": 0,
+                "y": 0,
+                "width": 1200,
+                "height": 720,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/titles/Title_1.png",
+                "grid9": "3,3,3,3,0",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "57462767486_0.9059966817439107",
+                "condition": [],
+                "type": "UIRoot",
+                "name": "上装饰容器",
+                "x": 0,
+                "y": 0,
+                "width": 1200,
+                "height": 48,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": false,
+                "enabledLimitView": true,
+                "scrollShowType": 2,
+                "hScrollBar": "",
+                "hScrollBg": "",
+                "vScrollBar": "",
+                "vScrollBg": "",
+                "scrollWidth": 4,
+                "slowmotionType": 0,
+                "enabledWheel": false,
+                "hScrollValue": 0,
+                "vScrollValue": 0,
+                "children": [
+                    {
+                        "id": "42254365299_0.44715336593450794",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "装饰背景",
+                        "x": 0,
+                        "y": 0,
+                        "width": 1200,
+                        "height": 720,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/shop/bg.png",
+                        "grid9": "3,3,3,3,0",
+                        "flip": null,
+                        "pivotType": 0
+                    }
+                ]
+            },
+            {
+                "id": "57462841693_0.5820927913697027",
+                "condition": [],
+                "type": "UIRoot",
+                "name": "下装饰容器",
+                "x": 0,
+                "y": 673,
+                "width": 1200,
+                "height": 48,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "enabledLimitView": true,
+                "scrollShowType": 2,
+                "hScrollBar": "",
+                "hScrollBg": "",
+                "vScrollBar": "",
+                "vScrollBg": "",
+                "scrollWidth": 4,
+                "slowmotionType": 0,
+                "enabledWheel": false,
+                "hScrollValue": 0,
+                "vScrollValue": 0,
+                "children": [
+                    {
+                        "id": "57462841693_0.9051506814091881",
+                        "condition": [],
+                        "type": "UIBitmap",
+                        "name": "装饰背景",
+                        "x": 0,
+                        "y": -673,
+                        "width": 1200,
+                        "height": 720,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": true,
+                        "materialData": [
+                            {
+                                "materials": []
+                            }
+                        ],
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "isOpen": true,
+                        "image": "asset/image/picture/ui/shop/bg.png",
+                        "grid9": "3,3,3,3,0",
+                        "flip": null,
+                        "pivotType": 0
+                    }
+                ]
+            },
+            {
+                "id": "43812710574_0.1490047165345576",
+                "condition": [],
+                "type": "UIString",
+                "name": "游戏标题",
+                "x": 22,
+                "y": 581,
+                "width": 312,
+                "height": 79,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "text": "新的游戏",
+                "fontSize": 75,
+                "color": "#f3ead2",
+                "bold": true,
+                "italic": false,
+                "smooth": true,
+                "align": 0,
+                "valign": 0,
+                "leading": 0,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "wordWrap": false,
+                "overflow": 0,
+                "shadowEnabled": true,
+                "shadowColor": "#000000",
+                "shadowDx": 1,
+                "shadowDy": 1,
+                "stroke": 0,
+                "strokeColor": "#000000",
+                "onChangeFragEvent": null
+            },
+            {
+                "id": "57463621090_0.7652751011575516",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "开始游戏按钮阴影",
+                "x": 1004,
+                "y": 482,
+                "width": 184,
+                "height": 34,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/menu/optionShadow.png",
+                "grid9": "0,0,0,0,0",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "57463651166_0.8979204383873507",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "读取存档按钮阴影",
+                "x": 959,
+                "y": 532,
+                "width": 184,
+                "height": 34,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/menu/optionShadow.png",
+                "grid9": "0,0,0,0,0",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "57463666859_0.0731284925526543",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "退出游戏按钮阴影",
+                "x": 879,
+                "y": 632,
+                "width": 184,
+                "height": 34,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/menu/optionShadow.png",
+                "grid9": "0,0,0,0,0",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "31870501239_0.5446454449699711",
+                "condition": [],
+                "type": "UIButton",
+                "name": "StartBtn",
+                "x": 995,
+                "y": 475,
+                "width": 201,
+                "height": 36,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [
+                    true
+                ],
+                "isOpen": true,
+                "label": "开始游戏",
+                "image1": "asset/image/picture/control/btn_normal.png",
+                "grid9img1": "0,65,0,53,1",
+                "image2": "asset/image/picture/control/btn_over.png",
+                "grid9img2": "0,65,0,53,1",
+                "image3": "asset/image/picture/control/btn_click.png",
+                "grid9img3": "0,65,0,53,1",
+                "fontSize": 16,
+                "color": "#3c3c48",
+                "overColor": "#e5e5e5",
+                "clickColor": "#e5e5e5",
+                "bold": true,
+                "italic": false,
+                "smooth": true,
+                "align": 1,
+                "valign": 1,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "textDx": -5,
+                "textDy": 0,
+                "textStroke": 0,
+                "textStrokeColor": "#000000"
+            },
+            {
+                "id": "42588246189_0.3946571868821098",
+                "condition": [],
+                "type": "UIButton",
+                "name": "LoadBtn",
+                "x": 950,
+                "y": 525,
+                "width": 201,
+                "height": 36,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [
+                    true
+                ],
+                "isOpen": true,
+                "label": "读取存档",
+                "image1": "asset/image/picture/control/btn_normal.png",
+                "grid9img1": "0,65,0,53,1",
+                "image2": "asset/image/picture/control/btn_over.png",
+                "grid9img2": "0,65,0,53,1",
+                "image3": "asset/image/picture/control/btn_click.png",
+                "grid9img3": "0,65,0,53,1",
+                "fontSize": 16,
+                "color": "#3c3c48",
+                "overColor": "#e5e5e5",
+                "clickColor": "#e5e5e5",
+                "bold": true,
+                "italic": false,
+                "smooth": true,
+                "align": 1,
+                "valign": 1,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "textDx": -5,
+                "textDy": 0,
+                "textStroke": 0,
+                "textStrokeColor": "#000000"
+            },
+            {
+                "id": "42588260235_0.0513781451358899",
+                "condition": [],
+                "type": "UIButton",
+                "name": "QuitBtn",
+                "x": 860,
+                "y": 625,
+                "width": 201,
+                "height": 36,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [
+                    true
+                ],
+                "isOpen": true,
+                "label": "退出游戏",
+                "image1": "asset/image/picture/control/btn_normal.png",
+                "grid9img1": "0,65,0,53,1",
+                "image2": "asset/image/picture/control/btn_over.png",
+                "grid9img2": "0,65,0,53,1",
+                "image3": "asset/image/picture/control/btn_click.png",
+                "grid9img3": "0,65,0,53,1",
+                "fontSize": 16,
+                "color": "#3c3c48",
+                "overColor": "#e5e5e5",
+                "clickColor": "#e5e5e5",
+                "bold": true,
+                "italic": false,
+                "smooth": true,
+                "align": 1,
+                "valign": 1,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "textDx": -5,
+                "textDy": 0,
+                "textStroke": 0,
+                "textStrokeColor": "#000000"
+            },
+            {
+                "id": "89576672059_0.8479819963181976",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "读取存档按钮阴影",
+                "x": 914,
+                "y": 582,
+                "width": 184,
+                "height": 34,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/ui/menu/optionShadow.png",
+                "grid9": "0,0,0,0,0",
+                "flip": null,
+                "pivotType": 0
+            },
+            {
+                "id": "89576672060_0.7169652831019948",
+                "condition": [],
+                "type": "UIButton",
+                "name": "settingBtn",
+                "x": 905,
+                "y": 575,
+                "width": 201,
+                "height": 36,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [
+                    true
+                ],
+                "isOpen": true,
+                "label": "游戏设置",
+                "image1": "asset/image/picture/control/btn_normal.png",
+                "grid9img1": "0,65,0,53,1",
+                "image2": "asset/image/picture/control/btn_over.png",
+                "grid9img2": "0,65,0,53,1",
+                "image3": "asset/image/picture/control/btn_click.png",
+                "grid9img3": "0,65,0,53,1",
+                "fontSize": 16,
+                "color": "#3c3c48",
+                "overColor": "#e5e5e5",
+                "clickColor": "#e5e5e5",
+                "bold": true,
+                "italic": false,
+                "smooth": true,
+                "align": 1,
+                "valign": 1,
+                "letterSpacing": 0,
+                "font": "思源黑体",
+                "textDx": -5,
+                "textDy": 0,
+                "textStroke": 0,
+                "textStrokeColor": "#000000"
+            }
+        ]
+    },
+    "id": 1,
+    "instanceClassName": "",
+    "hasRootCommand": [
+        null,
+        null,
+        null,
+        true
+    ]
+}
